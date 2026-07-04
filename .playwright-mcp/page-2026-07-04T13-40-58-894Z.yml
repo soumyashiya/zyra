@@ -1,0 +1,58 @@
+- main [ref=f6e4]:
+  - generic [ref=f6e6]:
+    - generic [ref=f6e7]:
+      - link "Zyra Labs — home" [ref=f6e8] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f6e9]: Z
+        - generic [ref=f6e10]: "y"
+        - generic [ref=f6e11]: R
+        - generic [ref=f6e12]: A
+        - generic [ref=f6e13]: labs
+      - link "← Back to home" [ref=f6e14] [cursor=pointer]:
+        - /url: /
+    - generic [ref=f6e15]:
+      - generic [ref=f6e16]:
+        - generic [ref=f6e17]: ZYRA labs · researcher access
+        - paragraph [ref=f6e18]:
+          - text: Pharmaceutical
+          - emphasis [ref=f6e19]: rigor,
+          - text: in every vial.
+        - generic [ref=f6e20]:
+          - generic [ref=f6e21]:
+            - strong [ref=f6e22]: HPLC-verified
+            - text: · every batch, every lot.
+          - generic [ref=f6e23]:
+            - strong [ref=f6e24]: Cold-chain shipping
+            - text: · 24-hour dispatch.
+          - generic [ref=f6e25]:
+            - strong [ref=f6e26]: Signed CoA
+            - text: · with every order.
+      - generic [ref=f6e27]:
+        - heading "Welcome back." [level=2] [ref=f6e28]:
+          - text: Welcome
+          - emphasis [ref=f6e29]: back.
+        - paragraph [ref=f6e30]: Sign in to see your orders, batch documentation, and reorder.
+        - generic [ref=f6e31]:
+          - generic [ref=f6e32]:
+            - generic [ref=f6e33]: Email
+            - textbox "Email" [ref=f6e34]:
+              - /placeholder: you@lab.com
+          - generic [ref=f6e35]:
+            - generic [ref=f6e36]: Password
+            - textbox "Password" [ref=f6e37]:
+              - /placeholder: At least 8 characters
+          - generic [ref=f6e38]:
+            - generic [ref=f6e39] [cursor=pointer]:
+              - checkbox "Remember me" [checked] [ref=f6e40]
+              - text: Remember me
+            - link "Forgot password?" [ref=f6e41] [cursor=pointer]:
+              - /url: "#reset"
+          - button "Sign in" [ref=f6e42] [cursor=pointer]
+          - generic [ref=f6e43]: or
+          - button "Continue with Google" [ref=f6e45] [cursor=pointer]:
+            - img [ref=f6e46]
+            - text: Continue with Google
+          - paragraph [ref=f6e51]:
+            - text: Don't have an account?
+            - link "Create one" [ref=f6e52] [cursor=pointer]:
+              - /url: "#toggle"

@@ -1,0 +1,173 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "P" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: P
+    - navigation [ref=e7]:
+      - link "Trending" [ref=e8] [cursor=pointer]:
+        - /url: /deals
+      - link "Family" [ref=e9] [cursor=pointer]:
+        - /url: /consumer
+      - link "Lifestyle" [ref=e10] [cursor=pointer]:
+        - /url: /automotive
+      - link "Business" [ref=e11] [cursor=pointer]:
+        - /url: /business
+      - link "Consumer" [ref=e12] [cursor=pointer]:
+        - /url: /family
+      - link "Industrial" [ref=e13] [cursor=pointer]:
+        - /url: /industrial
+      - button "More" [ref=e15] [cursor=pointer]:
+        - text: More
+        - img [ref=e16]
+    - generic [ref=e18]:
+      - generic [ref=e19] [cursor=pointer]:
+        - img [ref=e20]
+        - img [ref=e23]
+      - button "Cart" [ref=e25] [cursor=pointer]:
+        - img [ref=e26]
+  - main [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - generic [ref=e39]:
+          - generic [ref=e40]: Pulse Health
+          - generic [ref=e41]: Fitness, wellbeing & mindful living
+        - generic [ref=e42]:
+          - heading "Health &Wellness" [level=1] [ref=e43]:
+            - generic [ref=e44]: Health
+            - generic [ref=e45]:
+              - emphasis [ref=e46]: "&"
+              - text: Wellness
+          - paragraph [ref=e47]: Move well, rest well, and live each day with intention.
+        - button "Scroll down" [ref=e48] [cursor=pointer]
+        - generic [ref=e49]:
+          - generic [ref=e50]: 01 / 04Health
+          - generic [ref=e51]:
+            - button "Show Health" [ref=e52] [cursor=pointer]
+            - button "Show Trending" [ref=e53] [cursor=pointer]
+            - button "Show Family" [ref=e54] [cursor=pointer]
+            - button "Show Lifestyle" [ref=e55] [cursor=pointer]
+      - generic [ref=e57]:
+        - generic [ref=e58]: ( About Pulse )
+        - generic [ref=e59]:
+          - heading "Stories from every corner" [level=2] [ref=e60]:
+            - text: Stories from
+            - text: every corner
+          - generic [ref=e63]: Daily Feed
+        - generic [ref=e64]:
+          - heading "News that actually matters" [level=2] [ref=e65]:
+            - text: News that
+            - text: actually matters
+          - generic [ref=e68]: Every Topic
+        - generic [ref=e69]:
+          - heading "One feed, every category" [level=2] [ref=e70]:
+            - text: One feed,
+            - text: every category
+          - generic [ref=e73]: Pulse Stories
+        - generic [ref=e74]:
+          - heading "Made for every reader" [level=2] [ref=e75]:
+            - text: Made for
+            - text: every reader
+          - generic [ref=e78]: Your Pulse
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - generic [ref=e82]: Every beat covered
+          - heading "Your world, one feed" [level=2] [ref=e83]:
+            - text: Your world,
+            - text: one
+            - emphasis [ref=e84]: feed
+          - button "Explore Pulse" [ref=e85] [cursor=pointer]:
+            - text: Explore Pulse
+            - generic [ref=e86]: →
+        - link "Trending" [ref=e87] [cursor=pointer]:
+          - /url: /deals
+          - generic [ref=e89]:
+            - text: Trending
+            - generic [ref=e90]: →
+        - link "Family" [ref=e91] [cursor=pointer]:
+          - /url: /consumer
+          - generic [ref=e93]:
+            - text: Family
+            - generic [ref=e94]: →
+        - link "Lifestyle" [ref=e95] [cursor=pointer]:
+          - /url: /automotive
+          - generic [ref=e97]:
+            - text: Lifestyle
+            - generic [ref=e98]: →
+        - link "Business" [ref=e99] [cursor=pointer]:
+          - /url: /business
+          - generic [ref=e101]:
+            - text: Business
+            - generic [ref=e102]: →
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - generic [ref=e105]: ★★★★★
+          - generic [ref=e106]: Loved by our community
+        - generic [ref=e107]:
+          - article [ref=e108]:
+            - generic [ref=e109]: ★★★★★
+            - paragraph [ref=e110]: Pulse is the first thing I open each morning. One clean feed, everything I care about — no clutter, no noise.
+            - generic [ref=e113]:
+              - strong [ref=e114]: Amara K.
+              - emphasis [ref=e115]: Verified reader
+          - generic [ref=e118]: Pulse readers
+          - article [ref=e119]:
+            - generic [ref=e120]: ★★★★★
+            - paragraph [ref=e121]: I used to hop between five apps to keep up. Now I am genuinely informed in ten minutes a day.
+            - generic [ref=e124]:
+              - strong [ref=e125]: Daniel R.
+              - emphasis [ref=e126]: Verified reader
+          - generic [ref=e129]: In the newsroom
+          - article [ref=e130]:
+            - generic [ref=e131]: ★★★★★
+            - paragraph [ref=e132]: The trending section is scary-good. I always walk into conversations already knowing what is going on.
+            - generic [ref=e135]:
+              - strong [ref=e136]: Leïla M.
+              - emphasis [ref=e137]: Verified reader
+          - generic [ref=e140]: Live coverage
+      - generic [ref=e141]:
+        - generic [ref=e142]:
+          - generic [ref=e143]:
+            - generic [ref=e144]:
+              - generic [ref=e145]: P
+              - generic [ref=e146]: Pulse
+            - paragraph [ref=e147]: Your daily feed of stories, ideas, and moments — across every category of modern life.
+          - generic [ref=e148]:
+            - heading "Categories" [level=4] [ref=e149]
+            - link "Trending" [ref=e150] [cursor=pointer]:
+              - /url: /deals
+            - link "Family" [ref=e151] [cursor=pointer]:
+              - /url: /consumer
+            - link "Lifestyle" [ref=e152] [cursor=pointer]:
+              - /url: /automotive
+            - link "Business" [ref=e153] [cursor=pointer]:
+              - /url: /business
+            - link "Consumer" [ref=e154] [cursor=pointer]:
+              - /url: /family
+            - link "Industrial" [ref=e155] [cursor=pointer]:
+              - /url: /industrial
+          - generic [ref=e156]:
+            - heading "Company" [level=4] [ref=e157]
+            - link "Our story" [ref=e158] [cursor=pointer]:
+              - /url: "#discover"
+            - link "Community" [ref=e159] [cursor=pointer]:
+              - /url: "#community"
+            - link "Newsroom" [ref=e160] [cursor=pointer]:
+              - /url: "#community"
+            - link "Careers" [ref=e161] [cursor=pointer]:
+              - /url: "#discover"
+          - generic [ref=e162]:
+            - heading "The Pulse Letter" [level=4] [ref=e163]
+            - paragraph [ref=e164]: One weekly email — the stories that mattered, nothing that didn’t.
+            - generic [ref=e165]:
+              - textbox "Email address" [ref=e166]:
+                - /placeholder: your@email.com
+              - button "Join" [ref=e167] [cursor=pointer]
+        - generic [ref=e168]:
+          - generic [ref=e169]: © 2026 Pulse Media. All rights reserved.
+          - generic [ref=e170]:
+            - link "Privacy" [ref=e171] [cursor=pointer]:
+              - /url: "#"
+            - link "Terms" [ref=e172] [cursor=pointer]:
+              - /url: "#"
+            - link "Cookies" [ref=e173] [cursor=pointer]:
+              - /url: "#"

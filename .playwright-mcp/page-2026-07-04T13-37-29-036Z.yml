@@ -1,0 +1,254 @@
+- generic [ref=f1e3]:
+  - banner [ref=f1e4]:
+    - link "Zyra Labs — home" [ref=f1e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f1e6]:
+        - generic [ref=f1e7]: Z
+        - generic [ref=f1e8]: "y"
+        - generic [ref=f1e9]: R
+        - generic [ref=f1e10]: A
+        - generic [ref=f1e11]: labs
+    - generic [ref=f1e12]:
+      - link "Sign in" [ref=f1e13] [cursor=pointer]:
+        - /url: /signin
+        - img [ref=f1e14]
+      - link "Cart, 0 items" [ref=f1e17] [cursor=pointer]:
+        - /url: /cart
+        - img [ref=f1e18]
+      - button "Open menu" [ref=f1e21] [cursor=pointer]:
+        - img [ref=f1e22]
+  - main [ref=f1e23]:
+    - generic [ref=f1e24]:
+      - generic [ref=f1e25]:
+        - generic:
+          - generic: OUR STORY
+          - generic: SEVEN YEARS
+          - generic: RESEARCH LAB
+        - heading "About us" [level=1]:
+          - generic: A
+          - generic: B
+          - generic: O
+          - generic: U
+          - generic: T
+          - generic: us.
+      - generic [ref=f1e26]:
+        - generic [ref=f1e27]: ( 01 ) mission
+        - generic [ref=f1e28]:
+          - generic [ref=f1e29]:
+            - heading "Research-grade formulations, engineered for reproducibility." [level=2] [ref=f1e30]:
+              - text: Research-grade formulations,
+              - emphasis [ref=f1e31]: engineered
+              - text: for reproducibility.
+            - paragraph [ref=f1e32]: We exist to remove uncertainty from bench-side research. Every vial leaving our lab is synthesized under strict standard operating procedures, independently assayed for identity and purity, and cold-chain packaged for a worldwide research community that cannot afford lot-to-lot drift.
+            - generic [ref=f1e33]:
+              - generic [ref=f1e34]:
+                - generic [ref=f1e35]: "01"
+                - generic [ref=f1e36]:
+                  - heading "Reproducibility first" [level=4] [ref=f1e37]
+                  - paragraph [ref=f1e38]: Uniform batch chemistry means comparable data — the only kind that survives peer review.
+              - generic [ref=f1e39]:
+                - generic [ref=f1e40]: "02"
+                - generic [ref=f1e41]:
+                  - heading "Transparent documentation" [level=4] [ref=f1e42]
+                  - paragraph [ref=f1e43]: Every shipment is backed by an HPLC-verified certificate of analysis, signed by the batch chemist.
+              - generic [ref=f1e44]:
+                - generic [ref=f1e45]: "03"
+                - generic [ref=f1e46]:
+                  - heading "Human support" [level=4] [ref=f1e47]
+                  - paragraph [ref=f1e48]: Talk to the person who ran the assay — not a call centre. WhatsApp replies within the hour.
+          - generic [ref=f1e49]:
+            - img "Zyra Labs bench" [ref=f1e51]
+            - generic [ref=f1e52]:
+              - generic [ref=f1e53]: 100%
+              - generic [ref=f1e54]: batch-tested before dispatch
+      - generic [ref=f1e55]:
+        - generic [ref=f1e56]:
+          - generic [ref=f1e57]: ( 02 ) story
+          - heading "Seven years of quiet, obsessive iteration." [level=2] [ref=f1e58]:
+            - text: Seven years of
+            - emphasis [ref=f1e59]: quiet, obsessive
+            - text: iteration.
+        - generic [ref=f1e60]:
+          - generic [ref=f1e61]:
+            - img "Zyra Labs bench workflow" [ref=f1e62]
+            - generic [ref=f1e63]: Lab 05
+          - list [ref=f1e64]:
+            - listitem [ref=f1e65]:
+              - generic [ref=f1e66]: "2019"
+              - generic [ref=f1e67]:
+                - heading "Zyra Labs founded" [level=3] [ref=f1e68]
+                - paragraph [ref=f1e69]: Two chemists open a single-bench research chemistry lab.
+            - listitem [ref=f1e70]:
+              - generic [ref=f1e71]: "2021"
+              - generic [ref=f1e72]:
+                - heading "HPLC in-house" [level=3] [ref=f1e73]
+                - paragraph [ref=f1e74]: Independent HPLC and mass-spec instrumentation installed. Full assay control moves under one roof.
+            - listitem [ref=f1e75]:
+              - generic [ref=f1e76]: "2023"
+              - generic [ref=f1e77]:
+                - heading "10,000+ researchers" [level=3] [ref=f1e78]
+                - paragraph [ref=f1e79]: The 10,000th verified research client places an order. Cold-chain shipping expands to 40+ countries.
+            - listitem [ref=f1e80]:
+              - generic [ref=f1e81]: "2025"
+              - generic [ref=f1e82]:
+                - heading "Peptide facility" [level=3] [ref=f1e83]
+                - paragraph [ref=f1e84]: Dedicated peptide synthesis wing goes live, doubling capacity for BPC-157, TB-500, and GLP-1 analogs.
+            - listitem [ref=f1e85]:
+              - generic [ref=f1e86]: "2026"
+              - generic [ref=f1e87]:
+                - heading "Custom synthesis" [level=3] [ref=f1e88]
+                - paragraph [ref=f1e89]: Custom research synthesis service opens to labs, universities, and independent researchers globally.
+      - generic [ref=f1e90]:
+        - generic [ref=f1e91]:
+          - generic [ref=f1e92]: ( 03 ) values
+          - heading "What's non-negotiable." [level=2] [ref=f1e93]:
+            - text: What's
+            - emphasis [ref=f1e94]: non-negotiable
+            - text: .
+        - generic [ref=f1e95]:
+          - article [ref=f1e96]:
+            - img "Verified ≥99% purity" [ref=f1e98]
+            - generic [ref=f1e99]:
+              - generic [ref=f1e100]: purity
+              - heading "Verified ≥99% purity" [level=3] [ref=f1e101]
+              - paragraph [ref=f1e102]: HPLC and mass-spec confirmation on every lot. No exceptions, no averaging across batches.
+          - article [ref=f1e103]:
+            - img "Batch-to-batch consistency" [ref=f1e105]
+            - generic [ref=f1e106]:
+              - generic [ref=f1e107]: consistency
+              - heading "Batch-to-batch consistency" [level=3] [ref=f1e108]
+              - paragraph [ref=f1e109]: Standard operating procedures locked at every step of synthesis, lyophilization, and fill.
+          - article [ref=f1e110]:
+            - img "Full documentation" [ref=f1e112]
+            - generic [ref=f1e113]:
+              - generic [ref=f1e114]: documentation
+              - heading "Full documentation" [level=3] [ref=f1e115]
+              - paragraph [ref=f1e116]: A signed CoA, HPLC trace, and endotoxin result travels with every vial that leaves the lab.
+      - generic [ref=f1e117]:
+        - generic [ref=f1e118]:
+          - generic [ref=f1e119]: ( 04 ) team
+          - heading "The chemists signing your CoA." [level=2] [ref=f1e120]:
+            - text: The chemists
+            - emphasis [ref=f1e121]: signing
+            - text: your CoA.
+          - paragraph [ref=f1e122]: A tight, senior team of research chemists and analysts. Every vial ships with the name of the person who verified its purity.
+        - generic [ref=f1e123]:
+          - figure "Dr. Layla Faour Head of Peptide Chemistry" [ref=f1e124]:
+            - img "Dr. Layla Faour" [ref=f1e126]
+            - generic [ref=f1e127]:
+              - generic [ref=f1e128]: Dr. Layla Faour
+              - generic [ref=f1e129]: Head of Peptide Chemistry
+          - figure "James Whitford Lab Director · QA" [ref=f1e130]:
+            - img "James Whitford" [ref=f1e132]
+            - generic [ref=f1e133]:
+              - generic [ref=f1e134]: James Whitford
+              - generic [ref=f1e135]: Lab Director · QA
+          - figure "Sofia Bennett Analytical Chemistry Lead" [ref=f1e136]:
+            - img "Sofia Bennett" [ref=f1e138]
+            - generic [ref=f1e139]:
+              - generic [ref=f1e140]: Sofia Bennett
+              - generic [ref=f1e141]: Analytical Chemistry Lead
+          - figure "Michael Reed Client Research Liaison" [ref=f1e142]:
+            - img "Michael Reed" [ref=f1e144]
+            - generic [ref=f1e145]:
+              - generic [ref=f1e146]: Michael Reed
+              - generic [ref=f1e147]: Client Research Liaison
+      - generic [ref=f1e149]:
+        - generic [ref=f1e150]: ready when you are
+        - heading "Need a CoA, a custom synthesis quote, or bulk pricing?" [level=2] [ref=f1e151]:
+          - text: Need a CoA, a custom
+          - text: synthesis quote, or bulk pricing?
+        - generic [ref=f1e152]:
+          - link "Talk to the lab" [ref=f1e153] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=f1e154]: Talk to the lab
+            - img [ref=f1e155]
+          - link "Explore services" [ref=f1e158] [cursor=pointer]:
+            - /url: /services
+            - generic [ref=f1e159]: Explore services
+            - img [ref=f1e160]
+      - generic "Site footer" [ref=f1e163]:
+        - generic [ref=f1e164]:
+          - generic [ref=f1e165]:
+            - generic [ref=f1e166]:
+              - link "Zyra Labs — home" [ref=f1e167] [cursor=pointer]:
+                - /url: /
+                - generic [ref=f1e168]: Z
+                - generic [ref=f1e169]: "y"
+                - generic [ref=f1e170]: R
+                - generic [ref=f1e171]: A
+                - generic [ref=f1e172]: labs
+              - paragraph [ref=f1e173]: Research-grade peptides and clinical-grade supplements — formulated, tested, and dispatched cold-chain from Dubai Science Park.
+              - generic [ref=f1e174]:
+                - heading "Join the newsletter" [level=4] [ref=f1e175]
+                - paragraph [ref=f1e176]: CoAs, batch drops, and lab notes — no more than once a month.
+                - generic [ref=f1e177]:
+                  - generic [ref=f1e178]:
+                    - textbox "Email address" [ref=f1e179]:
+                      - /placeholder: you@lab.com
+                    - button "Subscribe" [ref=f1e180] [cursor=pointer]
+                  - generic [ref=f1e181] [cursor=pointer]:
+                    - checkbox "I agree to receive lab updates and batch drops. Unsubscribe anytime." [checked] [ref=f1e182]
+                    - generic [ref=f1e183]: I agree to receive lab updates and batch drops. Unsubscribe anytime.
+            - generic [ref=f1e184]:
+              - heading "the lab" [level=4] [ref=f1e185]
+              - list [ref=f1e186]:
+                - listitem [ref=f1e187]:
+                  - link "about zyra labs" [ref=f1e188] [cursor=pointer]:
+                    - /url: /about
+                - listitem [ref=f1e189]:
+                  - link "shop peptides" [ref=f1e190] [cursor=pointer]:
+                    - /url: /services
+                - listitem [ref=f1e191]:
+                  - link "batch testing & purity" [ref=f1e192] [cursor=pointer]:
+                    - /url: /services
+                - listitem [ref=f1e193]:
+                  - link "request a CoA" [ref=f1e194] [cursor=pointer]:
+                    - /url: /contact
+            - generic [ref=f1e195]:
+              - heading "account" [level=4] [ref=f1e196]
+              - list [ref=f1e197]:
+                - listitem [ref=f1e198]:
+                  - link "sign in" [ref=f1e199] [cursor=pointer]:
+                    - /url: /signin
+                - listitem [ref=f1e200]:
+                  - link "your cart" [ref=f1e201] [cursor=pointer]:
+                    - /url: /cart
+                - listitem [ref=f1e202]:
+                  - link "contact" [ref=f1e203] [cursor=pointer]:
+                    - /url: /contact
+                - listitem [ref=f1e204]:
+                  - link "team" [ref=f1e205] [cursor=pointer]:
+                    - /url: /about
+            - generic [ref=f1e206]:
+              - heading "support" [level=4] [ref=f1e207]
+              - list [ref=f1e208]:
+                - listitem [ref=f1e209]:
+                  - link "research@zyralabs.com" [ref=f1e210] [cursor=pointer]:
+                    - /url: mailto:research@zyralabs.com
+                - listitem [ref=f1e211]:
+                  - link "sales@zyralabs.com" [ref=f1e212] [cursor=pointer]:
+                    - /url: mailto:sales@zyralabs.com
+                - listitem [ref=f1e213]:
+                  - link "whatsapp · +971 54 380 0625" [ref=f1e214] [cursor=pointer]:
+                    - /url: https://wa.me/971543800625
+                - listitem [ref=f1e215]:
+                  - link "lab 05 · dubai science park" [ref=f1e216] [cursor=pointer]:
+                    - /url: https://maps.google.com/?q=Dubai+Science+Park
+                - listitem [ref=f1e217]:
+                  - generic [ref=f1e218]: sun – fri · 09:00 – 21:00 gst
+          - generic [ref=f1e219]:
+            - generic [ref=f1e220]: © 2026 Zyra Labs · all rights reserved
+            - generic [ref=f1e221]:
+              - link "Instagram" [ref=f1e222] [cursor=pointer]:
+                - /url: https://instagram.com/zyralabs
+                - img [ref=f1e223]
+              - link "X (Twitter)" [ref=f1e227] [cursor=pointer]:
+                - /url: https://twitter.com/zyralabs
+                - img [ref=f1e228]
+              - link "YouTube" [ref=f1e230] [cursor=pointer]:
+                - /url: https://youtube.com/@zyralabs
+                - img [ref=f1e231]
+              - link "LinkedIn" [ref=f1e234] [cursor=pointer]:
+                - /url: https://linkedin.com/company/zyralabs
+                - img [ref=f1e235]

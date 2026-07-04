@@ -1,0 +1,54 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "P Pulse" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: P
+      - generic [ref=e7]: Pulse
+    - navigation [ref=e8]:
+      - link "Trending" [ref=e9] [cursor=pointer]:
+        - /url: /deals
+      - link "Family" [ref=e10] [cursor=pointer]:
+        - /url: /consumer
+      - link "Lifestyle" [ref=e11] [cursor=pointer]:
+        - /url: /automotive
+      - link "Business" [ref=e12] [cursor=pointer]:
+        - /url: /business
+    - generic [ref=e13]:
+      - generic [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+        - generic [ref=e18]: Dubai
+        - img [ref=e19]
+      - button "Cart" [ref=e21] [cursor=pointer]:
+        - img [ref=e22]
+  - main [ref=e26]:
+    - generic [ref=e28]:
+      - img [ref=e30]
+      - generic [ref=e31]:
+        - emphasis [ref=e32]: Est. 2016
+        - generic [ref=e33]: Strategic Consulting — Worldwide
+      - generic [ref=e34]:
+        - paragraph [ref=e35]:
+          - generic [ref=e36]: Strategy
+          - generic [ref=e38]: Markets
+          - generic [ref=e40]: Leadership
+        - heading "Navigate Business with Confidence" [level=1] [ref=e41]:
+          - text: Navigate Business with
+          - emphasis [ref=e42]: Confidence
+        - paragraph [ref=e43]: Expert strategic consulting to drive sustainable growth, operational innovation, and lasting business transformation — across industries and markets.
+        - generic [ref=e44]:
+          - link "Book a Free Call" [ref=e45] [cursor=pointer]:
+            - /url: "#contact"
+            - generic [ref=e46]: Book a Free Call
+            - generic [ref=e47]: +
+          - link "Explore our services →" [ref=e48] [cursor=pointer]:
+            - /url: "#services"
+        - generic [ref=e49]:
+          - generic [ref=e50]:
+            - strong [ref=e51]: 98%
+            - generic [ref=e52]: Client satisfaction
+          - generic [ref=e53]:
+            - strong [ref=e54]: $50M+
+            - generic [ref=e55]: Revenue generated
+          - generic [ref=e56]:
+            - strong [ref=e57]: 300+
+            - generic [ref=e58]: Projects delivered

@@ -1,0 +1,23 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "P Pulse" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: P
+      - generic [ref=e7]: Pulse
+    - navigation [ref=e8]:
+      - link "Trending" [ref=e9] [cursor=pointer]:
+        - /url: /deals
+      - link "Family" [ref=e10] [cursor=pointer]:
+        - /url: /consumer
+      - link "Lifestyle" [ref=e11] [cursor=pointer]:
+        - /url: /automotive
+      - link "Business" [ref=e12] [cursor=pointer]:
+        - /url: /business
+    - generic [ref=e13]:
+      - generic [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+        - generic [ref=e18]: Dubai
+        - img [ref=e19]
+      - button "Cart" [ref=e21] [cursor=pointer]:
+        - img [ref=e22]
+  - main [ref=e26]

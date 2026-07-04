@@ -1,0 +1,280 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "P Pulse" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: P
+      - generic [ref=e7]: Pulse
+    - navigation [ref=e8]:
+      - link "Trending" [ref=e9] [cursor=pointer]:
+        - /url: /deals
+      - link "Family" [ref=e10] [cursor=pointer]:
+        - /url: /consumer
+      - link "Lifestyle" [ref=e11] [cursor=pointer]:
+        - /url: /automotive
+      - link "Business" [ref=e12] [cursor=pointer]:
+        - /url: /business
+    - generic [ref=e13]:
+      - generic [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+        - generic [ref=e18]: Dubai
+        - img [ref=e19]
+      - button "Cart" [ref=e21] [cursor=pointer]:
+        - img [ref=e22]
+  - main [ref=e26]:
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - img [ref=e30]
+        - generic [ref=e31]:
+          - emphasis [ref=e32]: Est. 2016
+          - generic [ref=e33]: Strategic Consulting — Worldwide
+        - generic [ref=e34]:
+          - paragraph [ref=e35]:
+            - generic [ref=e36]: Strategy
+            - generic [ref=e38]: Markets
+            - generic [ref=e40]: Leadership
+          - heading "Navigate Business with Confidence" [level=1] [ref=e41]:
+            - text: Navigate Business with
+            - emphasis [ref=e42]: Confidence
+          - paragraph [ref=e43]: Expert strategic consulting to drive sustainable growth, operational innovation, and lasting business transformation — across industries and markets.
+          - generic [ref=e44]:
+            - link "Book a Free Call" [ref=e45] [cursor=pointer]:
+              - /url: "#contact"
+              - generic [ref=e46]: Book a Free Call
+              - generic [ref=e47]: +
+            - link "Explore our services →" [ref=e48] [cursor=pointer]:
+              - /url: "#services"
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - strong [ref=e51]: 98%
+              - generic [ref=e52]: Client satisfaction
+            - generic [ref=e53]:
+              - strong [ref=e54]: $50M+
+              - generic [ref=e55]: Revenue generated
+            - generic [ref=e56]:
+              - strong [ref=e57]: 300+
+              - generic [ref=e58]: Projects delivered
+      - generic [ref=e60]:
+        - generic [ref=e61]:
+          - heading "Driving Growth Through Strategic Excellence" [level=2] [ref=e62]:
+            - text: Driving Growth Through Strategic
+            - emphasis [ref=e63]: Excellence
+          - link "Contact Us" [ref=e64] [cursor=pointer]:
+            - /url: "#contact"
+            - generic [ref=e65]: Contact Us
+            - img [ref=e67]
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e72]:
+              - button "[01] Strategy Consulting" [expanded] [ref=e73] [cursor=pointer]:
+                - generic [ref=e74]: "[01]"
+                - generic [ref=e75]: Strategy Consulting
+              - generic [ref=e78]:
+                - paragraph [ref=e79]: Guiding individuals and businesses with smart financial planning, investment advice, and long-term wealth strategies.
+                - list [ref=e80]:
+                  - listitem [ref=e81]:
+                    - img [ref=e83]
+                    - text: Personalized Financial Planning
+                  - listitem [ref=e85]:
+                    - img [ref=e87]
+                    - text: Investment & Portfolio Guidance
+                  - listitem [ref=e89]:
+                    - img [ref=e91]
+                    - text: Risk Management & Wealth Protection
+            - generic [ref=e93]:
+              - button "[02] Market Insights and Analysis" [ref=e94] [cursor=pointer]:
+                - generic [ref=e95]: "[02]"
+                - generic [ref=e96]: Market Insights and Analysis
+              - generic [ref=e97]:
+                - paragraph [ref=e98]: Turning raw market data into clear direction — competitor benchmarks, demand signals, and the trends shaping your category.
+                - list [ref=e99]:
+                  - listitem [ref=e100]:
+                    - img [ref=e102]
+                    - text: Competitor & Industry Benchmarking
+                  - listitem [ref=e104]:
+                    - img [ref=e106]
+                    - text: Demand Forecasting & Sizing
+                  - listitem [ref=e108]:
+                    - img [ref=e110]
+                    - text: Opportunity & Risk Mapping
+            - generic [ref=e112]:
+              - button "[03] Wealth & Finance Advisory" [ref=e113] [cursor=pointer]:
+                - generic [ref=e114]: "[03]"
+                - generic [ref=e115]: Wealth & Finance Advisory
+              - generic [ref=e116]:
+                - paragraph [ref=e117]: Building durable financial foundations through disciplined capital planning, cash-flow strategy, and measured growth.
+                - list [ref=e118]:
+                  - listitem [ref=e119]:
+                    - img [ref=e121]
+                    - text: Capital Structure & Funding
+                  - listitem [ref=e123]:
+                    - img [ref=e125]
+                    - text: Cash-Flow & Margin Strategy
+                  - listitem [ref=e127]:
+                    - img [ref=e129]
+                    - text: Long-Term Wealth Protection
+            - generic [ref=e131]:
+              - button "[04] Digital Transformation" [ref=e132] [cursor=pointer]:
+                - generic [ref=e133]: "[04]"
+                - generic [ref=e134]: Digital Transformation
+              - generic [ref=e135]:
+                - paragraph [ref=e136]: Modernizing operations with the right systems, automation, and data so your teams move faster with far less friction.
+                - list [ref=e137]:
+                  - listitem [ref=e138]:
+                    - img [ref=e140]
+                    - text: Process Automation & Tooling
+                  - listitem [ref=e142]:
+                    - img [ref=e144]
+                    - text: Data & Analytics Enablement
+                  - listitem [ref=e146]:
+                    - img [ref=e148]
+                    - text: Change Management & Adoption
+          - generic [ref=e150]:
+            - img "Strategy Consulting" [ref=e151]
+            - img "Market Insights and Analysis" [ref=e152]
+            - img "Wealth & Finance Advisory" [ref=e153]
+            - img "Digital Transformation" [ref=e154]
+      - generic [ref=e156]:
+        - heading "Our Proven Process to Drive Your Success" [level=2] [ref=e157]:
+          - text: Our Proven Process to Drive Your
+          - emphasis [ref=e158]: Success
+        - generic [ref=e159]:
+          - article [ref=e160]:
+            - generic [ref=e161]:
+              - img [ref=e163]
+              - generic [ref=e166]: "[01]"
+            - generic [ref=e167]:
+              - heading "Discover & Diagnose" [level=3] [ref=e168]
+              - paragraph [ref=e169]: We start by understanding your business, identifying pain points, and analyzing what truly drives performance.
+          - article [ref=e170]:
+            - generic [ref=e171]:
+              - img [ref=e173]
+              - generic [ref=e175]: "[02]"
+            - generic [ref=e176]:
+              - heading "Strategize & Plan" [level=3] [ref=e177]
+              - paragraph [ref=e178]: We develop tailored, data-driven strategies designed to solve challenges and align every team behind one plan.
+          - article [ref=e179]:
+            - generic [ref=e180]:
+              - img [ref=e182]
+              - generic [ref=e187]: "[03]"
+            - generic [ref=e188]:
+              - heading "Execute & Optimize" [level=3] [ref=e189]
+              - paragraph [ref=e190]: We work alongside your team to implement solutions, monitor progress, and refine until results compound.
+      - generic [ref=e192]:
+        - generic [ref=e193]:
+          - generic [ref=e194]:
+            - img "Deep Collaboration" [ref=e195]
+            - generic [ref=e196]:
+              - heading "Know What’s Possible" [level=3] [ref=e197]
+              - link "Get in Touch" [ref=e198] [cursor=pointer]:
+                - /url: "#contact"
+                - generic [ref=e199]: Get in Touch
+                - img [ref=e201]
+          - generic [ref=e204]:
+            - img "Expertise" [ref=e205]
+            - generic [ref=e206]:
+              - heading "Discover What’s Next" [level=3] [ref=e207]
+              - link "Get in Touch" [ref=e208] [cursor=pointer]:
+                - /url: "#contact"
+                - generic [ref=e209]: Get in Touch
+                - img [ref=e211]
+          - generic [ref=e214]:
+            - img "Tailored Solutions" [ref=e215]
+            - generic [ref=e216]:
+              - heading "Building Smarter Together" [level=3] [ref=e217]
+              - link "Get in Touch" [ref=e218] [cursor=pointer]:
+                - /url: "#contact"
+                - generic [ref=e219]: Get in Touch
+                - img [ref=e221]
+        - generic [ref=e224]:
+          - heading "The Value Behind Our Partnership" [level=2] [ref=e225]:
+            - text: The Value Behind Our
+            - emphasis [ref=e226]: Partnership
+          - paragraph [ref=e227]: "Our partnership goes beyond delivering solutions — it’s about building trust and aligning fully with your goals. We become your strategic partner: tailored solutions, expert insight, and measurable results."
+          - tablist [ref=e228]:
+            - tab "Deep Collaboration" [selected] [ref=e229] [cursor=pointer]: Deep Collaboration
+            - tab "Expertise" [ref=e231] [cursor=pointer]: Expertise
+            - tab "Tailored Solutions" [ref=e233] [cursor=pointer]: Tailored Solutions
+          - paragraph [ref=e236]: We work as an extension of your team — immersing ourselves in your goals, challenges, and vision to ensure aligned outcomes. We believe great results come from working closely together.
+      - generic [ref=e238]:
+        - generic [ref=e239]:
+          - heading "How We Helped Clients Grow Smarter" [level=2] [ref=e240]:
+            - text: How We Helped Clients Grow
+            - emphasis [ref=e241]: Smarter
+          - generic [ref=e242]:
+            - button "Previous case studies" [ref=e243] [cursor=pointer]:
+              - img [ref=e244]
+            - button "Next case studies" [ref=e246] [cursor=pointer]:
+              - img [ref=e247]
+        - generic [ref=e249]:
+          - article [ref=e250]:
+            - img "Revive & Rise" [ref=e252]
+            - generic [ref=e253]:
+              - generic [ref=e254]: Turnaround
+              - heading "Revive & Rise" [level=3] [ref=e255]
+              - generic:
+                - generic:
+                  - paragraph [ref=e256]: We step in to assess what’s holding you back, reshape your strategy, and breathe new life into stalled operations.
+                  - link "Read More" [ref=e257] [cursor=pointer]:
+                    - /url: "#contact"
+                    - text: Read More
+                    - img [ref=e258]
+          - article [ref=e261]:
+            - img "Scaling Made Simple" [ref=e263]
+            - generic [ref=e264]:
+              - generic [ref=e265]: Scale
+              - heading "Scaling Made Simple" [level=3] [ref=e266]
+              - generic:
+                - generic:
+                  - paragraph [ref=e267]: We simplify the scaling process — keeping what works, removing what doesn’t, and building systems that grow with you.
+                  - link "Read More" [ref=e268] [cursor=pointer]:
+                    - /url: "#contact"
+                    - text: Read More
+                    - img [ref=e269]
+          - article [ref=e272]:
+            - img "Fast-Track Growth" [ref=e274]
+            - generic [ref=e275]:
+              - generic [ref=e276]: Growth
+              - heading "Fast-Track Growth" [level=3] [ref=e277]
+              - generic:
+                - generic:
+                  - paragraph [ref=e278]: When time is critical and growth is essential, our focused strategies help you accelerate progress without losing control.
+                  - link "Read More" [ref=e279] [cursor=pointer]:
+                    - /url: "#contact"
+                    - text: Read More
+                    - img [ref=e280]
+          - article [ref=e283]:
+            - img "Future-Ready" [ref=e285]
+            - generic [ref=e286]:
+              - generic [ref=e287]: Resilience
+              - heading "Future-Ready" [level=3] [ref=e288]
+              - generic:
+                - generic:
+                  - paragraph [ref=e289]: We help organizations future-proof their operations with adaptable strategies and smart, well-chosen technologies.
+                  - link "Read More" [ref=e290] [cursor=pointer]:
+                    - /url: "#contact"
+                    - text: Read More
+                    - img [ref=e291]
+          - article [ref=e294]:
+            - img "Real Results, Not Just Advice" [ref=e296]
+            - generic [ref=e297]:
+              - generic [ref=e298]: Execution
+              - heading "Real Results, Not Just Advice" [level=3] [ref=e299]
+              - generic:
+                - generic:
+                  - paragraph [ref=e300]: We go beyond advice — our strategies are implemented with precision and measured against the outcomes that matter.
+                  - link "Read More" [ref=e301] [cursor=pointer]:
+                    - /url: "#contact"
+                    - text: Read More
+                    - img [ref=e302]
+          - article [ref=e305]:
+            - img "Partnerships That Drive Change" [ref=e307]
+            - generic [ref=e308]:
+              - generic [ref=e309]: Partnership
+              - heading "Partnerships That Drive Change" [level=3] [ref=e310]
+              - generic:
+                - generic:
+                  - paragraph [ref=e311]: Every success story begins with deep collaboration. We work side-by-side with clients to turn challenges into momentum.
+                  - link "Read More" [ref=e312] [cursor=pointer]:
+                    - /url: "#contact"
+                    - text: Read More
+                    - img [ref=e313]

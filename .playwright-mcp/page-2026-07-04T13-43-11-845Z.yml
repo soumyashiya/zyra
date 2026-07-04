@@ -1,0 +1,371 @@
+- generic [ref=f8e3]:
+  - banner [ref=f8e4]:
+    - link "Zyra Labs — home" [ref=f8e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f8e6]:
+        - generic [ref=f8e7]: Z
+        - generic [ref=f8e8]: "y"
+        - generic [ref=f8e9]: R
+        - generic [ref=f8e10]: A
+        - generic [ref=f8e11]: labs
+    - generic [ref=f8e12]:
+      - link "Sign in" [ref=f8e13] [cursor=pointer]:
+        - /url: /signin
+        - img [ref=f8e14]
+      - link "Cart, 0 items" [ref=f8e17] [cursor=pointer]:
+        - /url: /cart
+        - img [ref=f8e18]
+      - button "Open menu" [ref=f8e21] [cursor=pointer]:
+        - img [ref=f8e22]
+  - main [ref=f8e23]:
+    - generic [ref=f8e24]:
+      - generic [ref=f8e25]:
+        - generic:
+          - generic: RESEARCH PEPTIDES
+          - generic: SUPPLEMENTS
+          - generic: VERIFIED PURITY
+        - heading "Zyra Labs" [level=1]:
+          - generic: Z
+          - generic: "Y"
+          - generic: R
+          - generic: A
+          - generic: labs
+      - generic [ref=f8e27]:
+        - generic [ref=f8e28]:
+          - text: research peptides
+          - emphasis [ref=f8e29]: delivered
+          - text: verified purity, every batch
+          - text: trusted by
+          - emphasis [ref=f8e32]: researchers worldwide
+        - generic [ref=f8e34]:
+          - text: research peptides
+          - emphasis [ref=f8e35]: delivered
+          - text: verified purity, every batch
+          - text: trusted by
+          - emphasis [ref=f8e38]: researchers worldwide
+        - generic [ref=f8e40]:
+          - text: research peptides
+          - emphasis [ref=f8e41]: delivered
+          - text: verified purity, every batch
+          - text: trusted by
+          - emphasis [ref=f8e44]: researchers worldwide
+        - generic [ref=f8e46]:
+          - text: research peptides
+          - emphasis [ref=f8e47]: delivered
+          - text: verified purity, every batch
+          - text: trusted by
+          - emphasis [ref=f8e50]: researchers worldwide
+      - generic [ref=f8e52]:
+        - generic [ref=f8e53]:
+          - paragraph [ref=f8e54]: Zyra Labs is committed to advancing high-quality peptide and supplement research through clean, reliable, and precisely developed formulations. Our goal is simple — to provide controlled, consistent, and easy-to-use products designed for structured research applications.
+          - generic [ref=f8e55]:
+            - generic [ref=f8e56]:
+              - generic [ref=f8e57]:
+                - strong [ref=f8e58]: 10k
+                - generic [ref=f8e59]: +
+              - generic [ref=f8e60]: trusted customers
+            - generic [ref=f8e61]:
+              - generic [ref=f8e62]:
+                - strong [ref=f8e63]: "99"
+                - generic [ref=f8e64]: "%"
+              - generic [ref=f8e65]: verified purity
+            - generic [ref=f8e66]:
+              - generic [ref=f8e67]:
+                - strong [ref=f8e68]: "24"
+                - generic [ref=f8e69]: /7
+              - generic [ref=f8e70]: whatsapp support
+        - generic [ref=f8e71]:
+          - img "About 01" [ref=f8e74]
+          - img "About 02" [ref=f8e77]
+          - img "About 03" [ref=f8e80]
+          - img "About 04" [ref=f8e83]
+      - generic [ref=f8e84]:
+        - generic [ref=f8e85]:
+          - generic [ref=f8e86]: products
+          - heading "Research-grade peptides." [level=2] [ref=f8e87]:
+            - text: Research-grade
+            - emphasis [ref=f8e88]: peptides
+            - text: .
+        - generic [ref=f8e89]:
+          - link "BPC-157 & TB-500 40mg ( 01 )" [ref=f8e90] [cursor=pointer]:
+            - /url: /product/bpc-157-tb-500
+            - generic [ref=f8e91]: BPC-157 & TB-500 40mg
+            - generic [ref=f8e92]: ( 01 )
+          - link "Tirzepatide · 5mg / 20mg / 40mg ( 02 )" [ref=f8e93] [cursor=pointer]:
+            - /url: /product/tirzepatide
+            - generic [ref=f8e94]: Tirzepatide · 5mg / 20mg / 40mg
+            - generic [ref=f8e95]: ( 02 )
+          - link "Retatrutide · 20mg / 40mg ( 03 )" [ref=f8e96] [cursor=pointer]:
+            - /url: /product/retatrutide
+            - generic [ref=f8e97]: Retatrutide · 20mg / 40mg
+            - generic [ref=f8e98]: ( 03 )
+          - link "Glow · 5mg / 70mg ( 04 )" [ref=f8e99] [cursor=pointer]:
+            - /url: /product/glow
+            - generic [ref=f8e100]: Glow · 5mg / 70mg
+            - generic [ref=f8e101]: ( 04 )
+      - generic [ref=f8e102]:
+        - paragraph [ref=f8e104]: Why Zyra Labs — the standards behind every product we ship. Clean formulations, secure packaging, and a support team that knows what consistency means for serious research work.
+        - generic [ref=f8e105]:
+          - generic:
+            - heading [level=2]: Why Us
+          - generic [ref=f8e106]:
+            - article [ref=f8e107] [cursor=pointer]:
+              - img "Purity First" [ref=f8e110]
+              - generic [ref=f8e111]:
+                - generic [ref=f8e112]: Purity First
+                - generic [ref=f8e113]: ( 01 )
+              - paragraph [ref=f8e114]: Each product is checked thoroughly to maintain clean, high-quality formulations our customers can rely on.
+            - article [ref=f8e115] [cursor=pointer]:
+              - img "Reliable Consistency" [ref=f8e118]
+              - generic [ref=f8e119]:
+                - generic [ref=f8e120]: Reliable Consistency
+                - generic [ref=f8e121]: ( 02 )
+              - paragraph [ref=f8e122]: Uniform production standards ensure every batch performs the same — exactly what structured research demands.
+            - article [ref=f8e123] [cursor=pointer]:
+              - img "Secure Packaging" [ref=f8e126]
+              - generic [ref=f8e127]:
+                - generic [ref=f8e128]: Secure Packaging
+                - generic [ref=f8e129]: ( 03 )
+              - paragraph [ref=f8e130]: Sealed and protected so products arrive intact, stable, and ready for research use the moment they land.
+            - article [ref=f8e131] [cursor=pointer]:
+              - img "Verified Documentation" [ref=f8e134]
+              - generic [ref=f8e135]:
+                - generic [ref=f8e136]: Verified Documentation
+                - generic [ref=f8e137]: ( 04 )
+              - paragraph [ref=f8e138]: Strict testing and clear documentation back every order — full transparency from production to delivery.
+            - article [ref=f8e139] [cursor=pointer]:
+              - img "Quick WhatsApp Support" [ref=f8e142]
+              - generic [ref=f8e143]:
+                - generic [ref=f8e144]: Quick WhatsApp Support
+                - generic [ref=f8e145]: ( 05 )
+              - paragraph [ref=f8e146]: Fast, direct assistance whenever you need it. Real people, real answers, with no waiting on hold.
+            - article [ref=f8e147] [cursor=pointer]:
+              - img "Trusted by Thousands" [ref=f8e150]
+              - generic [ref=f8e151]:
+                - generic [ref=f8e152]: Trusted by Thousands
+                - generic [ref=f8e153]: ( 06 )
+              - paragraph [ref=f8e154]: Researchers and wellness professionals worldwide choose Zyra Labs for clean formulations and consistent results.
+      - generic [ref=f8e155]:
+        - generic [ref=f8e156]:
+          - generic [ref=f8e157]: testimonials
+          - heading "What our researchers say." [level=2] [ref=f8e158]:
+            - text: What our
+            - emphasis [ref=f8e159]: researchers
+            - text: say.
+        - generic [ref=f8e160]:
+          - generic [ref=f8e162]:
+            - figure [ref=f8e163]:
+              - generic [ref=f8e164]:
+                - generic: “
+                - generic "5 out of 5 stars" [ref=f8e165]:
+                  - img [ref=f8e166]
+                  - img [ref=f8e168]
+                  - img [ref=f8e170]
+                  - img [ref=f8e172]
+                  - img [ref=f8e174]
+                - blockquote [ref=f8e176]: Fast support and remarkably consistent products. Zyra Labs has become my go-to source for research-grade peptides.
+                - generic [ref=f8e177]:
+                  - img "Emily Carter" [ref=f8e178]
+                  - generic [ref=f8e179]:
+                    - generic [ref=f8e180]: Emily Carter
+                    - generic [ref=f8e181]: Wellness Consultant
+            - figure [ref=f8e182]:
+              - generic [ref=f8e183]:
+                - generic: “
+                - generic "5 out of 5 stars" [ref=f8e184]:
+                  - img [ref=f8e185]
+                  - img [ref=f8e187]
+                  - img [ref=f8e189]
+                  - img [ref=f8e191]
+                  - img [ref=f8e193]
+                - blockquote [ref=f8e195]: Secure delivery, excellent communication, and a team that genuinely understands what reliability means in this field.
+                - generic [ref=f8e196]:
+                  - img "Sofia Bennett" [ref=f8e197]
+                  - generic [ref=f8e198]:
+                    - generic [ref=f8e199]: Sofia Bennett
+                    - generic [ref=f8e200]: Fitness Coordinator · Abu Dhabi
+            - figure [ref=f8e201]:
+              - generic [ref=f8e202]:
+                - generic: “
+                - generic "5 out of 5 stars" [ref=f8e203]:
+                  - img [ref=f8e204]
+                  - img [ref=f8e206]
+                  - img [ref=f8e208]
+                  - img [ref=f8e210]
+                  - img [ref=f8e212]
+                - blockquote [ref=f8e214]: The consistency across batches is what keeps me coming back. Helpful guidance and a smooth ordering experience throughout.
+                - generic [ref=f8e215]:
+                  - img "Michael Reed" [ref=f8e216]
+                  - generic [ref=f8e217]:
+                    - generic [ref=f8e218]: Michael Reed
+                    - generic [ref=f8e219]: Research Assistant · London
+            - figure [ref=f8e220]:
+              - generic [ref=f8e221]:
+                - generic: “
+                - generic "5 out of 5 stars" [ref=f8e222]:
+                  - img [ref=f8e223]
+                  - img [ref=f8e225]
+                  - img [ref=f8e227]
+                  - img [ref=f8e229]
+                  - img [ref=f8e231]
+                - blockquote [ref=f8e233]: Documentation and traceability are flawless. I trust their batches the way I trust my own bench notes — completely.
+                - generic [ref=f8e234]:
+                  - img "Aisha Khan" [ref=f8e235]
+                  - generic [ref=f8e236]:
+                    - generic [ref=f8e237]: Aisha Khan
+                    - generic [ref=f8e238]: Naturopath · Riyadh
+            - figure [ref=f8e239]:
+              - generic [ref=f8e240]:
+                - generic: “
+                - generic "5 out of 5 stars" [ref=f8e241]:
+                  - img [ref=f8e242]
+                  - img [ref=f8e244]
+                  - img [ref=f8e246]
+                  - img [ref=f8e248]
+                  - img [ref=f8e250]
+                - blockquote [ref=f8e252]: We compared four suppliers over six months. Zyra Labs was the only one whose purity numbers held up under independent retesting.
+                - generic [ref=f8e253]:
+                  - img "James Whitford" [ref=f8e254]
+                  - generic [ref=f8e255]:
+                    - generic [ref=f8e256]: James Whitford
+                    - generic [ref=f8e257]: Lab Director · Manchester
+            - figure [ref=f8e258]:
+              - generic [ref=f8e259]:
+                - generic: “
+                - generic "5 out of 5 stars" [ref=f8e260]:
+                  - img [ref=f8e261]
+                  - img [ref=f8e263]
+                  - img [ref=f8e265]
+                  - img [ref=f8e267]
+                  - img [ref=f8e269]
+                - blockquote [ref=f8e271]: Shipping is quick, packaging is intact every single time, and the WhatsApp line actually replies in minutes. Genuinely rare.
+                - generic [ref=f8e272]:
+                  - img "Omar Hassan" [ref=f8e273]
+                  - generic [ref=f8e274]:
+                    - generic [ref=f8e275]: Omar Hassan
+                    - generic [ref=f8e276]: Sports Physiotherapist · Doha
+          - tablist "Testimonial slides" [ref=f8e277]:
+            - tab "Show slide 1" [selected] [ref=f8e278] [cursor=pointer]
+            - tab "Show slide 2" [ref=f8e279] [cursor=pointer]
+            - tab "Show slide 3" [ref=f8e280] [cursor=pointer]
+            - tab "Show slide 4" [ref=f8e281] [cursor=pointer]
+            - tab "Show slide 5" [ref=f8e282] [cursor=pointer]
+            - tab "Show slide 6" [ref=f8e283] [cursor=pointer]
+        - generic [ref=f8e284]:
+          - generic [ref=f8e285]:
+            - strong [ref=f8e286]: "4.9"
+            - generic [ref=f8e287]: average rating · 1,200+ reviews
+          - generic [ref=f8e288]:
+            - strong [ref=f8e289]: 98%
+            - generic [ref=f8e290]: customers would order again
+          - generic [ref=f8e291]:
+            - strong [ref=f8e292]: 24h
+            - generic [ref=f8e293]: typical WhatsApp response time
+      - generic [ref=f8e294]:
+        - generic:
+          - generic: +
+        - generic [ref=f8e295]:
+          - heading "Talk to the team behind every batch." [level=2] [ref=f8e296]:
+            - text: Talk to the team
+            - text: behind every
+            - emphasis [ref=f8e297]: batch.
+          - paragraph [ref=f8e298]: Need a certificate of analysis, a custom synthesis quote, or pricing on a bulk research order? Write to the lab and you’ll usually hear back within the hour — signed off by the chemist who ran the batch.
+          - generic [ref=f8e299]:
+            - link "research & COAs research@zyralabs.com" [ref=f8e300] [cursor=pointer]:
+              - /url: mailto:research@zyralabs.com
+              - generic [ref=f8e301]: research & COAs
+              - generic [ref=f8e302]: research@zyralabs.com
+            - link "sales & wholesale sales@zyralabs.com" [ref=f8e303] [cursor=pointer]:
+              - /url: mailto:sales@zyralabs.com
+              - generic [ref=f8e304]: sales & wholesale
+              - generic [ref=f8e305]: sales@zyralabs.com
+            - link "whatsapp · live +971 54 380 0625" [ref=f8e306] [cursor=pointer]:
+              - /url: https://wa.me/971543800625
+              - generic [ref=f8e307]: whatsapp · live
+              - generic [ref=f8e308]: +971 54 380 0625
+          - paragraph [ref=f8e309]: Lab 05 · Sun – Fri · 09:00 – 21:00 GST · cold-chain shipping worldwide in 2 – 4 business days
+      - generic "Site footer" [ref=f8e310]:
+        - generic [ref=f8e311]:
+          - generic [ref=f8e312]:
+            - generic [ref=f8e313]:
+              - link "Zyra Labs — home" [ref=f8e314] [cursor=pointer]:
+                - /url: /
+                - generic [ref=f8e315]: Z
+                - generic [ref=f8e316]: "y"
+                - generic [ref=f8e317]: R
+                - generic [ref=f8e318]: A
+                - generic [ref=f8e319]: labs
+              - paragraph [ref=f8e320]: Research-grade peptides and clinical-grade supplements — formulated, tested, and dispatched cold-chain from Dubai Science Park.
+              - generic [ref=f8e321]:
+                - heading "Join the newsletter" [level=4] [ref=f8e322]
+                - paragraph [ref=f8e323]: CoAs, batch drops, and lab notes — no more than once a month.
+                - generic [ref=f8e324]:
+                  - generic [ref=f8e325]:
+                    - textbox "Email address" [ref=f8e326]:
+                      - /placeholder: you@lab.com
+                    - button "Subscribe" [ref=f8e327] [cursor=pointer]
+                  - generic [ref=f8e328] [cursor=pointer]:
+                    - checkbox "I agree to receive lab updates and batch drops. Unsubscribe anytime." [checked] [ref=f8e329]
+                    - generic [ref=f8e330]: I agree to receive lab updates and batch drops. Unsubscribe anytime.
+            - generic [ref=f8e331]:
+              - heading "the lab" [level=4] [ref=f8e332]
+              - list [ref=f8e333]:
+                - listitem [ref=f8e334]:
+                  - link "about zyra labs" [ref=f8e335] [cursor=pointer]:
+                    - /url: /about
+                - listitem [ref=f8e336]:
+                  - link "shop peptides" [ref=f8e337] [cursor=pointer]:
+                    - /url: /services
+                - listitem [ref=f8e338]:
+                  - link "batch testing & purity" [ref=f8e339] [cursor=pointer]:
+                    - /url: /services
+                - listitem [ref=f8e340]:
+                  - link "request a CoA" [ref=f8e341] [cursor=pointer]:
+                    - /url: /contact
+            - generic [ref=f8e342]:
+              - heading "account" [level=4] [ref=f8e343]
+              - list [ref=f8e344]:
+                - listitem [ref=f8e345]:
+                  - link "sign in" [ref=f8e346] [cursor=pointer]:
+                    - /url: /signin
+                - listitem [ref=f8e347]:
+                  - link "your cart" [ref=f8e348] [cursor=pointer]:
+                    - /url: /cart
+                - listitem [ref=f8e349]:
+                  - link "contact" [ref=f8e350] [cursor=pointer]:
+                    - /url: /contact
+                - listitem [ref=f8e351]:
+                  - link "team" [ref=f8e352] [cursor=pointer]:
+                    - /url: /about
+            - generic [ref=f8e353]:
+              - heading "support" [level=4] [ref=f8e354]
+              - list [ref=f8e355]:
+                - listitem [ref=f8e356]:
+                  - link "research@zyralabs.com" [ref=f8e357] [cursor=pointer]:
+                    - /url: mailto:research@zyralabs.com
+                - listitem [ref=f8e358]:
+                  - link "sales@zyralabs.com" [ref=f8e359] [cursor=pointer]:
+                    - /url: mailto:sales@zyralabs.com
+                - listitem [ref=f8e360]:
+                  - link "whatsapp · +971 54 380 0625" [ref=f8e361] [cursor=pointer]:
+                    - /url: https://wa.me/971543800625
+                - listitem [ref=f8e362]:
+                  - link "lab 05 · dubai science park" [ref=f8e363] [cursor=pointer]:
+                    - /url: https://maps.google.com/?q=Dubai+Science+Park
+                - listitem [ref=f8e364]:
+                  - generic [ref=f8e365]: sun – fri · 09:00 – 21:00 gst
+          - generic [ref=f8e366]:
+            - generic [ref=f8e367]: © 2026 Zyra Labs · all rights reserved
+            - generic [ref=f8e368]:
+              - link "Instagram" [ref=f8e369] [cursor=pointer]:
+                - /url: https://instagram.com/zyralabs
+                - img [ref=f8e370]
+              - link "X (Twitter)" [ref=f8e374] [cursor=pointer]:
+                - /url: https://twitter.com/zyralabs
+                - img [ref=f8e375]
+              - link "YouTube" [ref=f8e377] [cursor=pointer]:
+                - /url: https://youtube.com/@zyralabs
+                - img [ref=f8e378]
+              - link "LinkedIn" [ref=f8e381] [cursor=pointer]:
+                - /url: https://linkedin.com/company/zyralabs
+                - img [ref=f8e382]

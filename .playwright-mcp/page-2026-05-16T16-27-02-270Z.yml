@@ -1,0 +1,279 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "home" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=e7]
+        - navigation [ref=e8]:
+          - generic [ref=e9]:
+            - button "Demos" [ref=e11] [cursor=pointer]:
+              - text: 
+              - paragraph [ref=e12]: Demos
+            - button "About Us" [ref=e14] [cursor=pointer]:
+              - text: 
+              - paragraph [ref=e15]: About Us
+            - link "Shop" [ref=e16] [cursor=pointer]:
+              - /url: /shop
+            - link "Blog" [ref=e17] [cursor=pointer]:
+              - /url: /blog
+            - button "All Pages" [ref=e19] [cursor=pointer]:
+              - text: 
+              - paragraph [ref=e20]: All Pages
+      - generic [ref=e21]:
+        - generic [ref=e22] [cursor=pointer]: 
+        - button "Open cart" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: "0"
+        - link "Try out now" [ref=e27] [cursor=pointer]:
+          - /url: /shop
+  - generic [ref=e29]:
+    - heading "Health and wellness accessible to all" [level=1] [ref=e31]
+    - paragraph [ref=e32]: Celebrate your health with our products
+    - link "Try out now" [ref=e34] [cursor=pointer]:
+      - /url: /shop
+  - generic [ref=e36]:
+    - link "Vitamins" [ref=e37] [cursor=pointer]:
+      - /url: /shop
+      - generic [ref=e38]: Vitamins
+    - link "Collagen" [ref=e39] [cursor=pointer]:
+      - /url: /shop
+      - generic [ref=e40]: Collagen
+    - link "Protein" [ref=e41] [cursor=pointer]:
+      - /url: /shop
+      - generic [ref=e42]: Protein
+    - link "Essential Oils" [ref=e43] [cursor=pointer]:
+      - /url: /shop
+      - generic [ref=e44]: Essential Oils
+  - generic [ref=e46]:
+    - generic [ref=e47]:
+      - heading "Discover our Products" [level=2] [ref=e48]
+      - paragraph [ref=e49]: We put intention into every product we make with the balance of science and nature
+      - link "Try out now" [ref=e51] [cursor=pointer]:
+        - /url: /shop
+    - generic [ref=e52]:
+      - img "photo" [ref=e55]
+      - img "photo" [ref=e57]
+      - img "photo" [ref=e60]
+  - generic [ref=e63]:
+    - list [ref=e65]:
+      - listitem [ref=e66]:
+        - generic [ref=e68]:
+          - heading "Supplements" [level=2] [ref=e69]
+          - paragraph [ref=e70]: We use our knowledge and expertise to help you live your best life. This means creating natural health & wellness products that help people make their life better
+          - link "Explore Category" [ref=e72] [cursor=pointer]:
+            - /url: /category/supplements
+    - list [ref=e75]:
+      - listitem [ref=e76]:
+        - generic [ref=e78]:
+          - heading "Essential Oils" [level=2] [ref=e79]
+          - link "Explore Category" [ref=e81] [cursor=pointer]:
+            - /url: /category/essential-oils
+    - list [ref=e83]:
+      - listitem [ref=e84]:
+        - generic [ref=e86]:
+          - heading "Powders" [level=2] [ref=e87]
+          - link "Explore Category" [ref=e89] [cursor=pointer]:
+            - /url: /category/powders
+  - generic [ref=e91]:
+    - generic [ref=e92]:
+      - heading "Latest Products" [level=2] [ref=e93]
+      - link "Show more" [ref=e94] [cursor=pointer]:
+        - /url: /shop
+    - list [ref=e96]:
+      - listitem [ref=e97]:
+        - generic [ref=e98]:
+          - link "photo" [ref=e100] [cursor=pointer]:
+            - /url: /product/collagen-peptides
+            - img "photo" [ref=e101]
+          - generic [ref=e102]:
+            - link "Collagen Peptides" [ref=e103] [cursor=pointer]:
+              - /url: /product/collagen-peptides
+            - generic [ref=e105]: $ 52.00 USD
+          - generic [ref=e106]:
+            - button "Add to Cart" [ref=e109] [cursor=pointer]
+            - generic [ref=e110]: 
+      - listitem [ref=e111]:
+        - generic [ref=e112]:
+          - generic [ref=e113]:
+            - link "On Sale" [ref=e114] [cursor=pointer]:
+              - /url: https://cbd-128.webflow.io/category/on-sale
+            - link "photo" [ref=e115] [cursor=pointer]:
+              - /url: /product/peppermint-softgels
+              - img "photo" [ref=e116]
+          - generic [ref=e117]:
+            - link "Peppermint Softgels" [ref=e118] [cursor=pointer]:
+              - /url: /product/peppermint-softgels
+            - generic [ref=e119]:
+              - generic [ref=e120]: $ 16.00 USD
+              - generic [ref=e121]: $20.00
+          - generic [ref=e122]:
+            - button "Add to Cart" [ref=e125] [cursor=pointer]
+            - generic [ref=e126]: 
+      - listitem [ref=e127]:
+        - generic [ref=e128]:
+          - link "photo" [ref=e130] [cursor=pointer]:
+            - /url: /product/spearmint-oil1
+            - img "photo" [ref=e131]
+          - generic [ref=e132]:
+            - link "Spearmint Oil" [ref=e133] [cursor=pointer]:
+              - /url: /product/spearmint-oil1
+            - generic [ref=e135]: $ 20.00 USD
+          - generic [ref=e136]:
+            - button "Add to Cart" [ref=e139] [cursor=pointer]
+            - generic [ref=e140]: 
+      - listitem [ref=e141]:
+        - generic [ref=e142]:
+          - link "photo" [ref=e144] [cursor=pointer]:
+            - /url: /product/rice-protein
+            - img "photo" [ref=e145]
+          - generic [ref=e146]:
+            - link "Rice Protein" [ref=e147] [cursor=pointer]:
+              - /url: /product/rice-protein
+            - generic [ref=e149]: $ 112.00 USD
+          - generic [ref=e150]:
+            - button "Add to Cart" [ref=e153] [cursor=pointer]
+            - generic [ref=e154]: 
+  - region "carousel" [ref=e156]:
+    - generic [ref=e157]:
+      - group "1 of 4" [ref=e158]:
+        - img "photo" [ref=e159]
+        - img "photo" [ref=e160]
+      - group [ref=e161]:
+        - img [ref=e162]
+      - group [ref=e163]:
+        - img [ref=e164]
+      - group [ref=e165]:
+        - img [ref=e166]
+        - img [ref=e167]
+    - button "previous slide" [ref=e169] [cursor=pointer]:
+      - generic [ref=e170]: 
+    - button "next slide" [ref=e171] [cursor=pointer]:
+      - generic [ref=e172]: 
+  - generic [ref=e174]:
+    - generic [ref=e175]:
+      - heading "Our Advantages" [level=2] [ref=e176]
+      - paragraph [ref=e177]: We use our knowledge and expertise to help you live your best life. This means creating natural health & wellness products that help people make their life better
+    - generic [ref=e178]:
+      - generic [ref=e181]:
+        - heading "Healthy nails & hair" [level=6] [ref=e182]
+        - paragraph [ref=e183]: We create balance daily in people’s lives with our products
+      - generic [ref=e186]:
+        - heading "Pain relieve" [level=6] [ref=e187]
+        - paragraph [ref=e188]: We create balance daily in people’s lives with our products
+      - generic [ref=e191]:
+        - heading "Better sleep" [level=6] [ref=e192]
+        - paragraph [ref=e193]: We create balance daily in people’s lives with our products
+      - generic [ref=e196]:
+        - heading "Detox & Cleanse" [level=6] [ref=e197]
+        - paragraph [ref=e198]: We create balance daily in people’s lives with our products
+      - generic [ref=e201]:
+        - heading "Muscles support" [level=6] [ref=e202]
+        - paragraph [ref=e203]: We create balance daily in people’s lives with our products
+      - generic [ref=e206]:
+        - heading "Immune support" [level=6] [ref=e207]
+        - paragraph [ref=e208]: We create balance daily in people’s lives with our products
+  - region "carousel" [ref=e211]:
+    - group "1 of 2" [ref=e213]:
+      - generic [ref=e214]:
+        - generic [ref=e215]:
+          - generic [ref=e216]:     
+          - heading "Mary H." [level=5] [ref=e217]
+          - heading "I love their products and will be ordering again! I noticed an increase in energy and clarity on the first day!" [level=2] [ref=e218]
+        - img "photo" [ref=e219]
+    - button "previous slide" [ref=e221] [cursor=pointer]:
+      - generic [ref=e222]: 
+    - button "next slide" [ref=e223] [cursor=pointer]:
+      - generic [ref=e224]: 
+  - generic [ref=e228]:
+    - generic [ref=e229]:
+      - heading "Join our family!" [level=2] [ref=e230]
+      - paragraph [ref=e231]: Be the first to know about our latest products and offers! As a welcome gift, we’ll give you a 30% off coupon.
+      - form "Email Form" [ref=e233]:
+        - textbox "Your e-mail" [ref=e234]
+        - button "Subscribe" [ref=e235] [cursor=pointer]
+    - img "photo"
+  - generic [ref=e237]:
+    - generic [ref=e239]:
+      - generic [ref=e240]:
+        - link "logo" [ref=e241] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=e242]
+        - paragraph [ref=e243]: Everything you need for better health.
+      - generic [ref=e244]:
+        - link "2118 Thornridge Cir. Syracuse, Connecticut 35624" [ref=e247] [cursor=pointer]:
+          - /url: https://goo.gl/maps/cAkysNApmZywtHq96
+        - link "(225) 555-0118" [ref=e250] [cursor=pointer]:
+          - /url: tel:(225)555-0118
+      - generic [ref=e251]:
+        - heading "Shop" [level=6] [ref=e252]
+        - link "Shop All" [ref=e253] [cursor=pointer]:
+          - /url: /shop
+        - list [ref=e255]:
+          - listitem [ref=e256]:
+            - link "Supplements" [ref=e257] [cursor=pointer]:
+              - /url: /category/supplements
+          - listitem [ref=e258]:
+            - link "Essential Oils" [ref=e259] [cursor=pointer]:
+              - /url: /category/essential-oils
+          - listitem [ref=e260]:
+            - link "Powders" [ref=e261] [cursor=pointer]:
+              - /url: /category/powders
+      - generic [ref=e262]:
+        - heading "About" [level=6] [ref=e263]
+        - link "About Us" [ref=e264] [cursor=pointer]:
+          - /url: /about-us
+        - link "Our Team" [ref=e265] [cursor=pointer]:
+          - /url: /our-team
+        - link "Blog" [ref=e266] [cursor=pointer]:
+          - /url: /blog
+        - link "Testimonials" [ref=e267] [cursor=pointer]:
+          - /url: /testimonials
+      - generic [ref=e268]:
+        - heading "Customer Care" [level=6] [ref=e269]: Customer Care
+        - link "Contact us" [ref=e270] [cursor=pointer]:
+          - /url: /contact-us
+        - link "FAQs" [ref=e271] [cursor=pointer]:
+          - /url: /faq
+        - link "Returns & Exchanges" [ref=e272] [cursor=pointer]:
+          - /url: mailto:example@mail.com
+        - link "Support" [ref=e273] [cursor=pointer]:
+          - /url: mailto:example@mail.com
+    - generic [ref=e275]:
+      - generic [ref=e276]:
+        - link "" [ref=e277] [cursor=pointer]:
+          - /url: https://twitter.com/
+        - link "" [ref=e278] [cursor=pointer]:
+          - /url: https://www.instagram.com/
+        - link "" [ref=e279] [cursor=pointer]:
+          - /url: https://www.facebook.com/
+      - generic [ref=e280]:
+        - text: © Hearty 128. All Rights Reserved.
+        - link "Licensing" [ref=e281] [cursor=pointer]:
+          - /url: /templates/licensing
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - link "Webflow Templates" [ref=e284] [cursor=pointer]:
+            - /url: https://www.128.digital/webflow-templates
+          - text: by
+          - link "128.digital." [ref=e285] [cursor=pointer]:
+            - /url: https://www.128.digital/
+        - generic [ref=e286]:
+          - text: Powered by
+          - link "Webflow" [ref=e287] [cursor=pointer]:
+            - /url: https://webflow.com/
+    - generic:
+      - generic [ref=e289]:
+        - generic [ref=e290]:
+          - text: Boost Your Webflow with Pro Apps! Get 20% Off with Code
+          - generic [ref=e291]: WEBFLOW20
+        - link "Try Now!" [ref=e292] [cursor=pointer]:
+          - /url: https://webflow.com/@flowstar
+          - generic [ref=e293]: Try Now!
+      - generic [ref=e295]:
+        - link "More Templates" [ref=e296] [cursor=pointer]:
+          - /url: http://bit.ly/3mqNBJn
+          - generic [ref=e297]: More Templates
+        - link "webflow icon Buy this Template" [ref=e298] [cursor=pointer]:
+          - /url: https://webflow.com/dashboard/marketplace-checkout/redirect?rtype=Template&rid=640625d81dc434e0ed002770
+          - img "webflow icon" [ref=e299]
+          - generic [ref=e300]: Buy this Template

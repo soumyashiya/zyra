@@ -1,0 +1,25 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  flex: 1;
+  padding-top: var(--header-offset);
+}
+
+/* Chromeless routes (e.g. /signin) — no header, no header offset. */
+.main--bare {
+  padding-top: 0;
+}
+
+/* Keep the header offset in sync with the header's real height at each
+   breakpoint (header shrinks: 60px→56px→52px + its top gap). Pages that
+   pull their hero under the header read the same --header-offset. */
+@media (max-width: 720px) {
+  :root { --header-offset: 78px; }
+}
+@media (max-width: 480px) {
+  :root { --header-offset: 70px; }
+}

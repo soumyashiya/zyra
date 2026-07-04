@@ -1,0 +1,33 @@
+- generic [ref=f5e3]:
+  - banner [ref=f5e4]:
+    - link "Zyra Labs — home" [ref=f5e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f5e6]:
+        - generic [ref=f5e7]: Z
+        - generic [ref=f5e8]: "y"
+        - generic [ref=f5e9]: R
+        - generic [ref=f5e10]: A
+        - generic [ref=f5e11]: labs
+    - generic [ref=f5e12]:
+      - link "Sign in" [ref=f5e13] [cursor=pointer]:
+        - /url: /signin
+        - img [ref=f5e14]
+      - link "Cart, 0 items" [ref=f5e17] [cursor=pointer]:
+        - /url: /cart
+        - img [ref=f5e18]
+      - button "Open menu" [ref=f5e21] [cursor=pointer]:
+        - img [ref=f5e22]
+  - main [ref=f5e23]:
+    - generic [ref=f5e25]:
+      - generic [ref=f5e26]:
+        - generic [ref=f5e27]:
+          - paragraph [ref=f5e28]: Your Cart
+          - heading "Cart is empty" [level=1] [ref=f5e29]
+        - link "← Back to Shop" [ref=f5e30] [cursor=pointer]:
+          - /url: /services
+      - generic [ref=f5e31]:
+        - img [ref=f5e33]
+        - paragraph [ref=f5e37]: No research products yet
+        - paragraph [ref=f5e38]: Explore our catalogue and add a compound to get started.
+        - link "Continue shopping" [ref=f5e39] [cursor=pointer]:
+          - /url: /services

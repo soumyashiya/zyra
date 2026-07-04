@@ -1,0 +1,232 @@
+- generic [ref=f11e3]:
+  - banner [ref=f11e4]:
+    - link "Zyra Labs — home" [ref=f11e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f11e6]:
+        - generic [ref=f11e7]: Z
+        - generic [ref=f11e8]: "y"
+        - generic [ref=f11e9]: R
+        - generic [ref=f11e10]: A
+        - generic [ref=f11e11]: labs
+    - generic [ref=f11e12]:
+      - link "Sign in" [ref=f11e13] [cursor=pointer]:
+        - /url: /signin
+        - img [ref=f11e14]
+      - link "Cart, 0 items" [ref=f11e17] [cursor=pointer]:
+        - /url: /cart
+        - img [ref=f11e18]
+      - button "Open menu" [ref=f11e21] [cursor=pointer]:
+        - img [ref=f11e22]
+  - main [ref=f11e23]:
+    - generic [ref=f11e24]:
+      - generic [ref=f11e25]:
+        - generic:
+          - generic: RESEARCH & COAs
+          - generic: CUSTOM SYNTHESIS
+          - generic: WHATSAPP · LIVE
+          - generic: REPLY IN 1H
+        - heading "Talk to us" [level=1]:
+          - generic: T
+          - generic: A
+          - generic: L
+          - generic: K
+          - generic: to us.
+      - generic [ref=f11e26]:
+        - generic [ref=f11e27]:
+          - generic [ref=f11e28]: ( 01 ) channels
+          - heading "Reach the right desk directly." [level=2] [ref=f11e29]:
+            - text: Reach the
+            - emphasis [ref=f11e30]: right
+            - text: desk directly.
+          - paragraph [ref=f11e31]: We keep the queue human. Every message goes to the right person on the first hop.
+        - generic [ref=f11e32]:
+          - link "research & coa research@zyralabs.com CoA, batch records, HPLC traces." [ref=f11e33] [cursor=pointer]:
+            - /url: mailto:research@zyralabs.com
+            - img [ref=f11e35]
+            - generic [ref=f11e38]:
+              - generic [ref=f11e39]: research & coa
+              - generic [ref=f11e40]: research@zyralabs.com
+              - generic [ref=f11e41]: CoA, batch records, HPLC traces.
+            - img [ref=f11e43]
+          - link "sales & wholesale sales@zyralabs.com Bulk pricing, tiered accounts, retainers." [ref=f11e46] [cursor=pointer]:
+            - /url: mailto:sales@zyralabs.com
+            - img [ref=f11e48]
+            - generic [ref=f11e51]:
+              - generic [ref=f11e52]: sales & wholesale
+              - generic [ref=f11e53]: sales@zyralabs.com
+              - generic [ref=f11e54]: Bulk pricing, tiered accounts, retainers.
+            - img [ref=f11e56]
+          - link "whatsapp · live +971 54 380 0625 Fastest — replies within the hour." [ref=f11e59] [cursor=pointer]:
+            - /url: https://wa.me/971543800625
+            - img [ref=f11e61]
+            - generic [ref=f11e64]:
+              - generic [ref=f11e65]: whatsapp · live
+              - generic [ref=f11e66]: +971 54 380 0625
+              - generic [ref=f11e67]: Fastest — replies within the hour.
+            - img [ref=f11e69]
+          - link "front desk +971 4 000 0000 Sun – Fri · 09:00 – 21:00 GST." [ref=f11e72] [cursor=pointer]:
+            - /url: tel:+97140000000
+            - img [ref=f11e74]
+            - generic [ref=f11e76]:
+              - generic [ref=f11e77]: front desk
+              - generic [ref=f11e78]: +971 4 000 0000
+              - generic [ref=f11e79]: Sun – Fri · 09:00 – 21:00 GST.
+            - img [ref=f11e81]
+      - generic [ref=f11e85]:
+        - generic [ref=f11e86]:
+          - generic [ref=f11e87]: ( 02 ) message the lab
+          - heading "Send a note. Get a chemist back." [level=2] [ref=f11e88]:
+            - text: Send a note.
+            - emphasis [ref=f11e89]: Get a chemist
+            - text: back.
+          - paragraph [ref=f11e90]: Fill in a few details and we'll reply from the desk that's best equipped to help — usually within the hour during lab hours.
+          - list [ref=f11e91]:
+            - listitem [ref=f11e92]: Verified purity spec on request
+            - listitem [ref=f11e94]: Documentation attached with reply
+            - listitem [ref=f11e96]: No sales queue, no chatbot
+        - generic [ref=f11e98]:
+          - generic [ref=f11e99]:
+            - generic [ref=f11e100]:
+              - generic [ref=f11e101]: Name
+              - textbox "Name" [ref=f11e102]:
+                - /placeholder: Your full name
+            - generic [ref=f11e103]:
+              - generic [ref=f11e104]: Email
+              - textbox "Email" [ref=f11e105]:
+                - /placeholder: you@lab.com
+            - generic [ref=f11e106]:
+              - generic [ref=f11e107]: Company / Institution
+              - textbox "Company / Institution" [ref=f11e108]:
+                - /placeholder: Optional
+            - generic [ref=f11e109]:
+              - generic [ref=f11e110]: Topic
+              - generic [ref=f11e111] [cursor=pointer]:
+                - combobox "Topic" [ref=f11e112]:
+                  - option "CoA request" [selected]
+                  - option "Custom synthesis"
+                  - option "Wholesale pricing"
+                  - option "Shipping enquiry"
+                  - option "Something else"
+                - img
+            - generic [ref=f11e113]:
+              - generic [ref=f11e114]: Message
+              - textbox "Message" [ref=f11e115]:
+                - /placeholder: Compound, quantity, timeline, anything specific we should know…
+          - generic [ref=f11e116]:
+            - paragraph [ref=f11e117]: Your details are used only to reply to this enquiry.
+            - button "Send message" [ref=f11e118] [cursor=pointer]:
+              - generic [ref=f11e119]: Send message
+              - img [ref=f11e120]
+      - generic [ref=f11e123]:
+        - generic [ref=f11e124]:
+          - generic [ref=f11e125]: ( 03 ) visit
+          - heading "Come by the bench." [level=2] [ref=f11e126]:
+            - text: Come by the
+            - emphasis [ref=f11e127]: bench
+            - text: .
+          - paragraph [ref=f11e128]: Verified research clients are welcome to see the process first-hand. Book a slot in advance and we'll clear a chemist to walk you through synthesis and QA.
+        - complementary [ref=f11e130]:
+          - generic [ref=f11e131]:
+            - img [ref=f11e133]
+            - generic [ref=f11e136]:
+              - heading "Hours" [level=4] [ref=f11e137]
+              - paragraph [ref=f11e138]:
+                - strong [ref=f11e139]: Sun – Fri
+                - text: · 09:00 – 21:00 GST
+                - strong [ref=f11e140]: Saturday
+                - text: · Closed
+                - text: WhatsApp replies 7 days
+          - generic [ref=f11e141]:
+            - img [ref=f11e143]
+            - generic [ref=f11e146]:
+              - heading "Fast lane" [level=4] [ref=f11e147]
+              - paragraph [ref=f11e148]:
+                - text: WhatsApp
+                - link "+971 54 380 0625" [ref=f11e149] [cursor=pointer]:
+                  - /url: https://wa.me/971543800625
+                - text: "typical reply: under 60 minutes."
+      - generic "Site footer" [ref=f11e150]:
+        - generic [ref=f11e151]:
+          - generic [ref=f11e152]:
+            - generic [ref=f11e153]:
+              - link "Zyra Labs — home" [ref=f11e154] [cursor=pointer]:
+                - /url: /
+                - generic [ref=f11e155]: Z
+                - generic [ref=f11e156]: "y"
+                - generic [ref=f11e157]: R
+                - generic [ref=f11e158]: A
+                - generic [ref=f11e159]: labs
+              - paragraph [ref=f11e160]: Research-grade peptides and clinical-grade supplements — formulated, tested, and dispatched cold-chain from Dubai Science Park.
+              - generic [ref=f11e161]:
+                - heading "Join the newsletter" [level=4] [ref=f11e162]
+                - paragraph [ref=f11e163]: CoAs, batch drops, and lab notes — no more than once a month.
+                - generic [ref=f11e164]:
+                  - generic [ref=f11e165]:
+                    - textbox "Email address" [ref=f11e166]:
+                      - /placeholder: you@lab.com
+                    - button "Subscribe" [ref=f11e167] [cursor=pointer]
+                  - generic [ref=f11e168] [cursor=pointer]:
+                    - checkbox "I agree to receive lab updates and batch drops. Unsubscribe anytime." [checked] [ref=f11e169]
+                    - generic [ref=f11e170]: I agree to receive lab updates and batch drops. Unsubscribe anytime.
+            - generic [ref=f11e171]:
+              - heading "the lab" [level=4] [ref=f11e172]
+              - list [ref=f11e173]:
+                - listitem [ref=f11e174]:
+                  - link "about zyra labs" [ref=f11e175] [cursor=pointer]:
+                    - /url: /about
+                - listitem [ref=f11e176]:
+                  - link "shop peptides" [ref=f11e177] [cursor=pointer]:
+                    - /url: /services
+                - listitem [ref=f11e178]:
+                  - link "batch testing & purity" [ref=f11e179] [cursor=pointer]:
+                    - /url: /services
+                - listitem [ref=f11e180]:
+                  - link "request a CoA" [ref=f11e181] [cursor=pointer]:
+                    - /url: /contact
+            - generic [ref=f11e182]:
+              - heading "account" [level=4] [ref=f11e183]
+              - list [ref=f11e184]:
+                - listitem [ref=f11e185]:
+                  - link "sign in" [ref=f11e186] [cursor=pointer]:
+                    - /url: /signin
+                - listitem [ref=f11e187]:
+                  - link "your cart" [ref=f11e188] [cursor=pointer]:
+                    - /url: /cart
+                - listitem [ref=f11e189]:
+                  - link "contact" [ref=f11e190] [cursor=pointer]:
+                    - /url: /contact
+                - listitem [ref=f11e191]:
+                  - link "team" [ref=f11e192] [cursor=pointer]:
+                    - /url: /about
+            - generic [ref=f11e193]:
+              - heading "support" [level=4] [ref=f11e194]
+              - list [ref=f11e195]:
+                - listitem [ref=f11e196]:
+                  - link "research@zyralabs.com" [ref=f11e197] [cursor=pointer]:
+                    - /url: mailto:research@zyralabs.com
+                - listitem [ref=f11e198]:
+                  - link "sales@zyralabs.com" [ref=f11e199] [cursor=pointer]:
+                    - /url: mailto:sales@zyralabs.com
+                - listitem [ref=f11e200]:
+                  - link "whatsapp · +971 54 380 0625" [ref=f11e201] [cursor=pointer]:
+                    - /url: https://wa.me/971543800625
+                - listitem [ref=f11e202]:
+                  - link "lab 05 · dubai science park" [ref=f11e203] [cursor=pointer]:
+                    - /url: https://maps.google.com/?q=Dubai+Science+Park
+                - listitem [ref=f11e204]:
+                  - generic [ref=f11e205]: sun – fri · 09:00 – 21:00 gst
+          - generic [ref=f11e206]:
+            - generic [ref=f11e207]: © 2026 Zyra Labs · all rights reserved
+            - generic [ref=f11e208]:
+              - link "Instagram" [ref=f11e209] [cursor=pointer]:
+                - /url: https://instagram.com/zyralabs
+                - img [ref=f11e210]
+              - link "X (Twitter)" [ref=f11e214] [cursor=pointer]:
+                - /url: https://twitter.com/zyralabs
+                - img [ref=f11e215]
+              - link "YouTube" [ref=f11e217] [cursor=pointer]:
+                - /url: https://youtube.com/@zyralabs
+                - img [ref=f11e218]
+              - link "LinkedIn" [ref=f11e221] [cursor=pointer]:
+                - /url: https://linkedin.com/company/zyralabs
+                - img [ref=f11e222]

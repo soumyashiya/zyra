@@ -1,0 +1,297 @@
+- generic [ref=f13e3]:
+  - banner [ref=f13e4]:
+    - link "Zyra Labs — home" [ref=f13e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f13e6]:
+        - generic [ref=f13e7]: Z
+        - generic [ref=f13e8]: "y"
+        - generic [ref=f13e9]: R
+        - generic [ref=f13e10]: A
+        - generic [ref=f13e11]: labs
+    - navigation [ref=f13e12]:
+      - link "Home" [ref=f13e13] [cursor=pointer]:
+        - /url: "#home"
+      - link "About" [ref=f13e14] [cursor=pointer]:
+        - /url: /about
+      - link "Shop" [ref=f13e15] [cursor=pointer]:
+        - /url: /services
+      - link "Why Us" [ref=f13e16] [cursor=pointer]:
+        - /url: "#why-us"
+      - link "Testimonial" [ref=f13e17] [cursor=pointer]:
+        - /url: "#testimonials"
+      - link "Contact" [ref=f13e18] [cursor=pointer]:
+        - /url: /contact
+    - generic [ref=f13e19]:
+      - link "Sign in" [ref=f13e20] [cursor=pointer]:
+        - /url: /signin
+        - img [ref=f13e21]
+      - link "Cart, 0 items" [ref=f13e24] [cursor=pointer]:
+        - /url: /cart
+        - img [ref=f13e25]
+  - main [ref=f13e28]:
+    - generic [ref=f13e29]:
+      - generic [ref=f13e30]:
+        - generic:
+          - generic: STOCK PEPTIDES
+          - generic: CUSTOM SYNTHESIS
+          - generic: COLD-CHAIN
+          - generic: GLOBAL SHIPPING
+        - heading "Our services" [level=1]:
+          - generic: O
+          - generic: U
+          - generic: R
+          - generic: services.
+      - generic [ref=f13e31]:
+        - generic [ref=f13e32]:
+          - generic [ref=f13e33]: ( 01 ) catalogue
+          - heading "Stock peptides — ready to ship." [level=2] [ref=f13e34]:
+            - text: Stock
+            - emphasis [ref=f13e35]: peptides
+            - text: — ready to ship.
+          - paragraph [ref=f13e36]: A snapshot of what's on the shelf right now. Every listing includes CoA on request and ships within 24h.
+        - generic [ref=f13e37]:
+          - article [ref=f13e38]:
+            - link "Open BPC-157 & TB-500 40mg" [ref=f13e39] [cursor=pointer]:
+              - /url: /product/bpc-157-tb-500
+              - img "BPC-157 & TB-500 40mg" [ref=f13e40]
+              - generic [ref=f13e41]: /01
+              - generic [ref=f13e42]: In stock
+            - generic [ref=f13e43]:
+              - generic [ref=f13e44]:
+                - generic [ref=f13e45]: Recovery & Repair Blend
+                - generic [ref=f13e46]: $129.00
+              - heading "BPC-157 & TB-500 40mg" [level=3] [ref=f13e47]:
+                - link "BPC-157 & TB-500 40mg" [ref=f13e48] [cursor=pointer]:
+                  - /url: /product/bpc-157-tb-500
+              - paragraph [ref=f13e49]: A precision-blended research peptide combining BPC-157 and TB-500 in a single vial. Used in studies on tissue repair, vascularization, and inflammatory pathways.
+              - generic [ref=f13e50]:
+                - link "View product" [ref=f13e51] [cursor=pointer]:
+                  - /url: /product/bpc-157-tb-500
+                  - generic [ref=f13e52]: View product
+                  - img [ref=f13e53]
+                - link "Request CoA" [ref=f13e56] [cursor=pointer]:
+                  - /url: /contact
+          - article [ref=f13e57]:
+            - link "Open Tirzepatide · 5mg / 20mg / 40mg" [ref=f13e58] [cursor=pointer]:
+              - /url: /product/tirzepatide
+              - img "Tirzepatide · 5mg / 20mg / 40mg" [ref=f13e59]
+              - generic [ref=f13e60]: /02
+              - generic [ref=f13e61]: In stock
+            - generic [ref=f13e62]:
+              - generic [ref=f13e63]:
+                - generic [ref=f13e64]: GLP-1 / GIP Dual Agonist
+                - generic [ref=f13e65]: $179.00
+              - heading "Tirzepatide · 5mg / 20mg / 40mg" [level=3] [ref=f13e66]:
+                - link "Tirzepatide · 5mg / 20mg / 40mg" [ref=f13e67] [cursor=pointer]:
+                  - /url: /product/tirzepatide
+              - paragraph [ref=f13e68]: Research-grade Tirzepatide supplied in three vial sizes for flexible study design across metabolic and weight-related research protocols.
+              - generic [ref=f13e69]:
+                - link "View product" [ref=f13e70] [cursor=pointer]:
+                  - /url: /product/tirzepatide
+                  - generic [ref=f13e71]: View product
+                  - img [ref=f13e72]
+                - link "Request CoA" [ref=f13e75] [cursor=pointer]:
+                  - /url: /contact
+          - article [ref=f13e76]:
+            - link "Open Retatrutide · 20mg / 40mg" [ref=f13e77] [cursor=pointer]:
+              - /url: /product/retatrutide
+              - img "Retatrutide · 20mg / 40mg" [ref=f13e78]
+              - generic [ref=f13e79]: /03
+              - generic [ref=f13e80]: In stock
+            - generic [ref=f13e81]:
+              - generic [ref=f13e82]:
+                - generic [ref=f13e83]: Triple Agonist Research Peptide
+                - generic [ref=f13e84]: $219.00
+              - heading "Retatrutide · 20mg / 40mg" [level=3] [ref=f13e85]:
+                - link "Retatrutide · 20mg / 40mg" [ref=f13e86] [cursor=pointer]:
+                  - /url: /product/retatrutide
+              - paragraph [ref=f13e87]: Retatrutide for research into GLP-1, GIP, and glucagon-receptor pathways. Each vial is sealed, documented, and ships in protective packaging.
+              - generic [ref=f13e88]:
+                - link "View product" [ref=f13e89] [cursor=pointer]:
+                  - /url: /product/retatrutide
+                  - generic [ref=f13e90]: View product
+                  - img [ref=f13e91]
+                - link "Request CoA" [ref=f13e94] [cursor=pointer]:
+                  - /url: /contact
+          - article [ref=f13e95]:
+            - link "Open Glow · 5mg / 70mg" [ref=f13e96] [cursor=pointer]:
+              - /url: /product/glow
+              - img "Glow · 5mg / 70mg" [ref=f13e97]
+              - generic [ref=f13e98]: /04
+              - generic [ref=f13e99]: In stock
+            - generic [ref=f13e100]:
+              - generic [ref=f13e101]:
+                - generic [ref=f13e102]: Skin & Pigment Research Blend
+                - generic [ref=f13e103]: $89.00
+              - heading "Glow · 5mg / 70mg" [level=3] [ref=f13e104]:
+                - link "Glow · 5mg / 70mg" [ref=f13e105] [cursor=pointer]:
+                  - /url: /product/glow
+              - paragraph [ref=f13e106]: Glow is a research-grade peptide blend used in skin, pigment, and dermal hydration studies. Supplied in matched vial sizes for consistent dosing.
+              - generic [ref=f13e107]:
+                - link "View product" [ref=f13e108] [cursor=pointer]:
+                  - /url: /product/glow
+                  - generic [ref=f13e109]: View product
+                  - img [ref=f13e110]
+                - link "Request CoA" [ref=f13e113] [cursor=pointer]:
+                  - /url: /contact
+      - generic [ref=f13e114]:
+        - generic [ref=f13e115]:
+          - generic [ref=f13e116]: ( 02 ) process
+          - heading "Four steps from enquiry to your bench." [level=2] [ref=f13e117]:
+            - text: Four steps from
+            - emphasis [ref=f13e118]: enquiry
+            - text: to your bench.
+        - generic [ref=f13e119]:
+          - generic [ref=f13e120]:
+            - img "Zyra Labs workflow" [ref=f13e121]
+            - generic [ref=f13e122]:
+              - text: Turnaround
+              - strong [ref=f13e123]: 3 – 21 days
+          - list [ref=f13e124]:
+            - listitem [ref=f13e125]:
+              - generic [ref=f13e126]: "01"
+              - generic [ref=f13e127]:
+                - heading "Enquire" [level=3] [ref=f13e128]
+                - paragraph [ref=f13e129]: Send a quick note over WhatsApp or the form. Tell us what you need, quantity, and any spec.
+            - listitem [ref=f13e130]:
+              - generic [ref=f13e131]: "02"
+              - generic [ref=f13e132]:
+                - heading "Verify" [level=3] [ref=f13e133]
+                - paragraph [ref=f13e134]: We confirm scope, timelines, and share a quote. For custom work you get a spec sheet to sign off.
+            - listitem [ref=f13e135]:
+              - generic [ref=f13e136]: "03"
+              - generic [ref=f13e137]:
+                - heading "Synthesize" [level=3] [ref=f13e138]
+                - paragraph [ref=f13e139]: The batch is synthesized under SOP, HPLC-verified, and lyophilized in a class-100 fill room.
+            - listitem [ref=f13e140]:
+              - generic [ref=f13e141]: "04"
+              - generic [ref=f13e142]:
+                - heading "Ship" [level=3] [ref=f13e143]
+                - paragraph [ref=f13e144]: Signed CoA travels with the vial. Cold-chain dispatch within 24h, live-tracked to your door.
+      - generic [ref=f13e145]:
+        - generic [ref=f13e146]:
+          - generic [ref=f13e147]: ( 03 ) faq
+          - heading "Frequently asked." [level=2] [ref=f13e148]:
+            - text: Frequently
+            - emphasis [ref=f13e149]: asked
+            - text: .
+        - generic [ref=f13e150]:
+          - generic [ref=f13e151]:
+            - button "Do you provide a Certificate of Analysis?" [expanded] [ref=f13e152] [cursor=pointer]:
+              - generic [ref=f13e153]: Do you provide a Certificate of Analysis?
+            - paragraph [ref=f13e158]: Yes — every vial ships with a signed CoA including HPLC trace, mass-spec identity confirmation, and endotoxin results. Additional reports available on request.
+          - generic [ref=f13e159]:
+            - button "How long does custom synthesis take?" [ref=f13e160] [cursor=pointer]:
+              - generic [ref=f13e161]: How long does custom synthesis take?
+            - paragraph [ref=f13e165]: Typical turnaround is 3 – 6 weeks depending on sequence length, modifications, and scale. We share a firm timeline with your quote before you commit.
+          - generic [ref=f13e166]:
+            - button "What countries do you ship to?" [ref=f13e167] [cursor=pointer]:
+              - generic [ref=f13e168]: What countries do you ship to?
+            - paragraph [ref=f13e172]: We currently ship to 42 countries under a validated 96-hour cold-chain envelope. Customs paperwork is pre-cleared where applicable.
+          - generic [ref=f13e173]:
+            - button "Is there a minimum order?" [ref=f13e174] [cursor=pointer]:
+              - generic [ref=f13e175]: Is there a minimum order?
+            - paragraph [ref=f13e179]: No minimum on stock peptides — single vials are available. Custom synthesis starts at 5mg. Wholesale pricing unlocks at 10 vials per SKU.
+          - generic [ref=f13e180]:
+            - button "Can I speak to a chemist directly?" [ref=f13e181] [cursor=pointer]:
+              - generic [ref=f13e182]: Can I speak to a chemist directly?
+            - paragraph [ref=f13e186]: Yes. Verified research clients get direct WhatsApp access to a bench chemist for handling, reconstitution, and study-design questions.
+      - generic [ref=f13e188]:
+        - generic [ref=f13e189]: the next batch has your name on it
+        - heading "Ready to start a research order?" [level=2] [ref=f13e190]:
+          - text: Ready to start a
+          - emphasis [ref=f13e191]: research
+          - text: order?
+        - generic [ref=f13e192]:
+          - link "Talk to the lab" [ref=f13e193] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=f13e194]: Talk to the lab
+            - img [ref=f13e195]
+          - link "Browse catalogue" [ref=f13e198] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f13e199]: Browse catalogue
+            - img [ref=f13e200]
+      - generic "Site footer" [ref=f13e203]:
+        - generic [ref=f13e204]:
+          - generic [ref=f13e205]:
+            - generic [ref=f13e206]:
+              - link "Zyra Labs — home" [ref=f13e207] [cursor=pointer]:
+                - /url: /
+                - generic [ref=f13e208]: Z
+                - generic [ref=f13e209]: "y"
+                - generic [ref=f13e210]: R
+                - generic [ref=f13e211]: A
+                - generic [ref=f13e212]: labs
+              - paragraph [ref=f13e213]: Research-grade peptides and clinical-grade supplements — formulated, tested, and dispatched cold-chain from Dubai Science Park.
+              - generic [ref=f13e214]:
+                - heading "Join the newsletter" [level=4] [ref=f13e215]
+                - paragraph [ref=f13e216]: CoAs, batch drops, and lab notes — no more than once a month.
+                - generic [ref=f13e217]:
+                  - generic [ref=f13e218]:
+                    - textbox "Email address" [ref=f13e219]:
+                      - /placeholder: you@lab.com
+                    - button "Subscribe" [ref=f13e220] [cursor=pointer]
+                  - generic [ref=f13e221] [cursor=pointer]:
+                    - checkbox "I agree to receive lab updates and batch drops. Unsubscribe anytime." [checked] [ref=f13e222]
+                    - generic [ref=f13e223]: I agree to receive lab updates and batch drops. Unsubscribe anytime.
+            - generic [ref=f13e224]:
+              - heading "the lab" [level=4] [ref=f13e225]
+              - list [ref=f13e226]:
+                - listitem [ref=f13e227]:
+                  - link "about zyra labs" [ref=f13e228] [cursor=pointer]:
+                    - /url: /about
+                - listitem [ref=f13e229]:
+                  - link "shop peptides" [ref=f13e230] [cursor=pointer]:
+                    - /url: /services
+                - listitem [ref=f13e231]:
+                  - link "batch testing & purity" [ref=f13e232] [cursor=pointer]:
+                    - /url: /services
+                - listitem [ref=f13e233]:
+                  - link "request a CoA" [ref=f13e234] [cursor=pointer]:
+                    - /url: /contact
+            - generic [ref=f13e235]:
+              - heading "account" [level=4] [ref=f13e236]
+              - list [ref=f13e237]:
+                - listitem [ref=f13e238]:
+                  - link "sign in" [ref=f13e239] [cursor=pointer]:
+                    - /url: /signin
+                - listitem [ref=f13e240]:
+                  - link "your cart" [ref=f13e241] [cursor=pointer]:
+                    - /url: /cart
+                - listitem [ref=f13e242]:
+                  - link "contact" [ref=f13e243] [cursor=pointer]:
+                    - /url: /contact
+                - listitem [ref=f13e244]:
+                  - link "team" [ref=f13e245] [cursor=pointer]:
+                    - /url: /about
+            - generic [ref=f13e246]:
+              - heading "support" [level=4] [ref=f13e247]
+              - list [ref=f13e248]:
+                - listitem [ref=f13e249]:
+                  - link "research@zyralabs.com" [ref=f13e250] [cursor=pointer]:
+                    - /url: mailto:research@zyralabs.com
+                - listitem [ref=f13e251]:
+                  - link "sales@zyralabs.com" [ref=f13e252] [cursor=pointer]:
+                    - /url: mailto:sales@zyralabs.com
+                - listitem [ref=f13e253]:
+                  - link "whatsapp · +971 54 380 0625" [ref=f13e254] [cursor=pointer]:
+                    - /url: https://wa.me/971543800625
+                - listitem [ref=f13e255]:
+                  - link "lab 05 · dubai science park" [ref=f13e256] [cursor=pointer]:
+                    - /url: https://maps.google.com/?q=Dubai+Science+Park
+                - listitem [ref=f13e257]: sun – fri · 09:00 – 21:00 gst
+          - generic [ref=f13e258]:
+            - generic [ref=f13e259]: © 2026 Zyra Labs · all rights reserved
+            - generic [ref=f13e260]:
+              - link "Instagram" [ref=f13e261] [cursor=pointer]:
+                - /url: https://instagram.com/zyralabs
+                - img [ref=f13e262]
+              - link "X (Twitter)" [ref=f13e266] [cursor=pointer]:
+                - /url: https://twitter.com/zyralabs
+                - img [ref=f13e267]
+              - link "YouTube" [ref=f13e269] [cursor=pointer]:
+                - /url: https://youtube.com/@zyralabs
+                - img [ref=f13e270]
+              - link "LinkedIn" [ref=f13e273] [cursor=pointer]:
+                - /url: https://linkedin.com/company/zyralabs
+                - img [ref=f13e274]

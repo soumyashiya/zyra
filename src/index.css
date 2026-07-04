@@ -1,0 +1,87 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Height the header occupies; pages that pull content under the fixed
+     header reference this so the offset stays in sync at every breakpoint. */
+  --header-offset: 88px;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+/* Layout wrappers must never introduce their own horizontal scroll. */
+#root, .app, .main {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, sans-serif;
+  background: #0a0a0a;
+  color: white;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  color: inherit;
+}
+
+img, svg, video, canvas {
+  max-width: 100%;
+}
+
+img {
+  display: block;
+}
+
+/* Media-wide responsive media: never distort, never overflow. */
+img, video {
+  height: auto;
+}
+
+/* Respect users who prefer reduced motion — soften heavy scroll/reveal
+   animations site-wide for accessibility and low-powered devices. */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Prevent iOS Safari auto-zoom on focus by keeping form text ≥16px on
+   small screens; desktop keeps the designed sizes. */
+@media (max-width: 480px) {
+  input, select, textarea {
+    font-size: 16px;
+  }
+}

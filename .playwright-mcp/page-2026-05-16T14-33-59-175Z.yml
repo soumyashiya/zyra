@@ -1,0 +1,639 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - banner [ref=e6]:
+        - generic [ref=e7]:
+          - link "home" [ref=e9] [cursor=pointer]:
+            - /url: /
+            - img "Optimo" [ref=e10]
+          - generic:  
+          - button "menu" [ref=e12] [cursor=pointer]:
+            - generic [ref=e13]: 
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - heading "Navigate Business with Confidence" [level=1] [ref=e18]
+          - paragraph [ref=e20]: Expert strategic consulting to drive sustainable growth, operational innovation, and lasting business transformation across industries and markets, maximizing impact.
+          - link "Book a Free Call" [ref=e22] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e23]: Book a Free Call
+        - generic [ref=e26]:
+          - generic [ref=e27]:
+            - generic [ref=e28]: Let’s Move Your Business Forward
+            - generic [ref=e29]: Success doesn’t happen by chance—it’s built through smart strategy, informed decisions
+          - form "Email Form 2" [ref=e32]:
+            - textbox "Enter your email" [ref=e33]
+            - button "Submit" [ref=e34] [cursor=pointer]
+      - img "Hero BG" [ref=e36]
+    - generic [ref=e39]:
+      - heading "Since 2016, we're a team of all in all experienced consultations, combine for strategic instant." [level=2] [ref=e42]
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - paragraph [ref=e45]: At Optimo, We help businesses navigate complexity unlock to growth achieve lasting transformation with a team of experienced consultations, We can combine for strategic instant.
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - generic [ref=e48]:
+                - heading "1" [level=1] [ref=e49]
+                - heading "2" [level=1] [ref=e50]
+                - heading "3" [level=1] [ref=e51]
+                - heading "4" [level=1] [ref=e52]
+                - heading "5" [level=1] [ref=e53]
+                - heading "6" [level=1] [ref=e54]
+                - heading "7" [level=1] [ref=e55]
+                - heading "1" [level=1] [ref=e56]
+              - generic [ref=e57]:
+                - heading "5" [level=1] [ref=e58]
+                - heading "1" [level=1] [ref=e59]
+                - heading "2" [level=1] [ref=e60]
+                - heading "3" [level=1] [ref=e61]
+                - heading "4" [level=1] [ref=e62]
+                - heading "6" [level=1] [ref=e63]
+                - heading "7" [level=1] [ref=e64]
+                - heading "4" [level=1] [ref=e65]
+              - generic [ref=e66]:
+                - heading "1" [level=1] [ref=e67]
+                - heading "2" [level=1] [ref=e68]
+                - heading "3" [level=1] [ref=e69]
+                - heading "7" [level=1] [ref=e70]
+                - heading "9" [level=1] [ref=e71]
+                - heading "2" [level=1] [ref=e72]
+                - heading "9" [level=1] [ref=e73]
+                - heading "0" [level=1] [ref=e74]
+              - heading "+" [level=1] [ref=e75]
+            - generic [ref=e76]: Successful Projects Delivered
+        - img "About Image" [ref=e78]
+        - generic [ref=e82]:
+          - generic [ref=e84]:
+            - generic [ref=e85]: Strategic Planning
+            - generic [ref=e86]: Operational Excellence
+            - generic [ref=e87]: Market Expansion
+            - generic [ref=e88]: Risk Management
+          - link "Book a Free Call" [ref=e90] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e91]: Book a Free Call
+    - generic [ref=e96]:
+      - generic [ref=e97]:
+        - heading "With a 98% client satisfaction, our strategies have led to $50M+ in revenue" [level=2] [ref=e99]
+        - paragraph [ref=e101]: Our strategic approach is designed to align with your business goals, helping you scale faster
+      - generic [ref=e102]:
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - generic [ref=e107]:
+              - heading "1" [level=2] [ref=e108]
+              - heading "2" [level=2] [ref=e109]
+              - heading "3" [level=2] [ref=e110]
+              - heading "4" [level=2] [ref=e111]
+              - heading "5" [level=2] [ref=e112]
+              - heading "6" [level=2] [ref=e113]
+              - heading "7" [level=2] [ref=e114]
+              - heading "2" [level=2] [ref=e115]
+            - generic [ref=e116]:
+              - heading "5" [level=2] [ref=e117]
+              - heading "1" [level=2] [ref=e118]
+              - heading "2" [level=2] [ref=e119]
+              - heading "3" [level=2] [ref=e120]
+              - heading "4" [level=2] [ref=e121]
+              - heading "6" [level=2] [ref=e122]
+              - heading "7" [level=2] [ref=e123]
+              - heading "4" [level=2] [ref=e124]
+            - generic [ref=e125]:
+              - heading "1" [level=2] [ref=e126]
+              - heading "2" [level=2] [ref=e127]
+              - heading "3" [level=2] [ref=e128]
+              - heading "7" [level=2] [ref=e129]
+              - heading "9" [level=2] [ref=e130]
+              - heading "2" [level=2] [ref=e131]
+              - heading "9" [level=2] [ref=e132]
+              - heading "0" [level=2] [ref=e133]
+            - heading "+" [level=2] [ref=e134]
+          - generic [ref=e135]: Over 300+ clients complete high-impact projects.
+        - generic [ref=e138]:
+          - generic [ref=e139]:
+            - generic [ref=e140]:
+              - heading "1" [level=2] [ref=e141]
+              - heading "2" [level=2] [ref=e142]
+              - heading "3" [level=2] [ref=e143]
+              - heading "4" [level=2] [ref=e144]
+              - heading "5" [level=2] [ref=e145]
+              - heading "6" [level=2] [ref=e146]
+              - heading "7" [level=2] [ref=e147]
+              - heading "9" [level=2] [ref=e148]
+            - generic [ref=e149]:
+              - heading "8" [level=2] [ref=e150]
+              - heading "1" [level=2] [ref=e151]
+              - heading "2" [level=2] [ref=e152]
+              - heading "3" [level=2] [ref=e153]
+              - heading "4" [level=2] [ref=e154]
+              - heading "6" [level=2] [ref=e155]
+              - heading "7" [level=2] [ref=e156]
+              - heading "4" [level=2] [ref=e157]
+            - heading "%" [level=2] [ref=e158]
+          - generic [ref=e159]: Trusted by hundreds of clients who rate our work highly.
+        - generic [ref=e162]:
+          - generic [ref=e163]:
+            - generic [ref=e164]:
+              - heading "5" [level=2] [ref=e165]
+              - heading "1" [level=2] [ref=e166]
+              - heading "2" [level=2] [ref=e167]
+              - heading "3" [level=2] [ref=e168]
+              - heading "4" [level=2] [ref=e169]
+              - heading "6" [level=2] [ref=e170]
+              - heading "7" [level=2] [ref=e171]
+              - heading "4" [level=2] [ref=e172]
+            - generic [ref=e173]:
+              - heading "1" [level=2] [ref=e174]
+              - heading "2" [level=2] [ref=e175]
+              - heading "3" [level=2] [ref=e176]
+              - heading "7" [level=2] [ref=e177]
+              - heading "9" [level=2] [ref=e178]
+              - heading "2" [level=2] [ref=e179]
+              - heading "9" [level=2] [ref=e180]
+              - heading "0" [level=2] [ref=e181]
+            - heading "+" [level=2] [ref=e182]
+          - generic [ref=e183]: Our ability to adapt and deliver impactful solutions across
+        - generic [ref=e186]:
+          - generic [ref=e187]:
+            - generic [ref=e188]:
+              - heading "1" [level=2] [ref=e189]
+              - heading "2" [level=2] [ref=e190]
+              - heading "3" [level=2] [ref=e191]
+              - heading "4" [level=2] [ref=e192]
+              - heading "5" [level=2] [ref=e193]
+              - heading "6" [level=2] [ref=e194]
+              - heading "7" [level=2] [ref=e195]
+              - heading "2" [level=2] [ref=e196]
+            - generic [ref=e197]:
+              - heading "0" [level=2] [ref=e198]
+              - heading "1" [level=2] [ref=e199]
+              - heading "2" [level=2] [ref=e200]
+              - heading "3" [level=2] [ref=e201]
+              - heading "4" [level=2] [ref=e202]
+              - heading "6" [level=2] [ref=e203]
+              - heading "7" [level=2] [ref=e204]
+              - heading "4" [level=2] [ref=e205]
+            - heading "+" [level=2] [ref=e206]
+          - generic [ref=e207]: Building on years of experience, we provide trusted guidance.
+    - generic [ref=e210]:
+      - generic [ref=e211]:
+        - heading "Driving Growth Through Strategic Excellence" [level=2] [ref=e213]
+        - link "Contact Us" [ref=e215] [cursor=pointer]:
+          - /url: /contact
+          - generic [ref=e216]: Contact Us
+      - generic [ref=e220]:
+        - tablist [ref=e221]:
+          - tab "[01] Strategy Consulting Guiding individuals and businesses with smart financial planning, investment advice, and long-term wealth strategies.\" Personalized Financial Planning Investment & Portfolio Guidance Risk Management & Wealth Protection" [selected] [ref=e222] [cursor=pointer]:
+            - generic [ref=e223]:
+              - generic [ref=e224]:
+                - generic [ref=e225]: "[01]"
+                - generic [ref=e226]: Strategy Consulting
+              - generic [ref=e227]:
+                - paragraph [ref=e229]: Guiding individuals and businesses with smart financial planning, investment advice, and long-term wealth strategies."
+                - generic [ref=e230]:
+                  - generic [ref=e232]: Personalized Financial Planning
+                  - generic [ref=e234]: Investment & Portfolio Guidance
+                  - generic [ref=e236]: Risk Management & Wealth Protection
+          - tab "[02] Market Insights and Analysis Guiding individuals and businesses with smart financial planning, investment advice, and long-term wealth strategies.\" Personalized Financial Planning Investment & Portfolio Guidance Risk Management & Wealth Protection" [ref=e237] [cursor=pointer]:
+            - generic [ref=e238]:
+              - generic [ref=e239]:
+                - generic [ref=e240]: "[02]"
+                - generic [ref=e241]: Market Insights and Analysis
+              - generic:
+                - paragraph [ref=e243]: Guiding individuals and businesses with smart financial planning, investment advice, and long-term wealth strategies."
+                - generic [ref=e244]:
+                  - generic [ref=e246]: Personalized Financial Planning
+                  - generic [ref=e248]: Investment & Portfolio Guidance
+                  - generic [ref=e250]: Risk Management & Wealth Protection
+          - tab "[03] Wealth & Finance Advisory Guiding individuals and businesses with smart financial planning, investment advice, and long-term wealth strategies.\" Personalized Financial Planning Investment & Portfolio Guidance Risk Management & Wealth Protection" [ref=e251] [cursor=pointer]:
+            - generic [ref=e252]:
+              - generic [ref=e253]:
+                - generic [ref=e254]: "[03]"
+                - generic [ref=e255]: Wealth & Finance Advisory
+              - generic:
+                - paragraph [ref=e257]: Guiding individuals and businesses with smart financial planning, investment advice, and long-term wealth strategies."
+                - generic [ref=e258]:
+                  - generic [ref=e260]: Personalized Financial Planning
+                  - generic [ref=e262]: Investment & Portfolio Guidance
+                  - generic [ref=e264]: Risk Management & Wealth Protection
+          - tab "[04] Digital Transformation Guiding individuals and businesses with smart financial planning, investment advice, and long-term wealth strategies.\" Personalized Financial Planning Investment & Portfolio Guidance Risk Management & Wealth Protection" [ref=e265] [cursor=pointer]:
+            - generic [ref=e266]:
+              - generic [ref=e267]:
+                - generic [ref=e268]: "[04]"
+                - generic [ref=e269]: Digital Transformation
+              - generic:
+                - paragraph [ref=e271]: Guiding individuals and businesses with smart financial planning, investment advice, and long-term wealth strategies."
+                - generic [ref=e272]:
+                  - generic [ref=e274]: Personalized Financial Planning
+                  - generic [ref=e276]: Investment & Portfolio Guidance
+                  - generic [ref=e278]: Risk Management & Wealth Protection
+        - tabpanel "[01] Strategy Consulting Guiding individuals and businesses with smart financial planning, investment advice, and long-term wealth strategies.\" Personalized Financial Planning Investment & Portfolio Guidance Risk Management & Wealth Protection" [ref=e280]:
+          - img "Excellence Image" [ref=e282]
+    - generic [ref=e288]:
+      - heading "Our Proven Process to Drive Your Success" [level=2] [ref=e290]
+      - generic [ref=e291]:
+        - generic [ref=e294]:
+          - generic [ref=e295]: Discover & Diagnose
+          - generic [ref=e296]: We start by understanding your business, identifying pain points, and analyzing
+        - generic [ref=e299]:
+          - generic [ref=e300]: Strategize & Plan
+          - generic [ref=e301]: We develop tailored, data-driven strategies designed to solve challenges, align
+        - generic [ref=e304]:
+          - generic [ref=e305]: Execute & Optimize
+          - generic [ref=e306]: We work alongside your team to implement solutions, monitor progress and refine.
+    - generic [ref=e309]:
+      - generic [ref=e310]:
+        - generic [ref=e311]:
+          - img "Smarter image" [ref=e312]
+          - generic [ref=e314]:
+            - generic [ref=e315]: What to Know What’s Possible
+            - link "Get In Touch" [ref=e316] [cursor=pointer]:
+              - /url: /contact
+              - generic [ref=e317]: Get In Touch
+        - generic [ref=e320]:
+          - img "Smarter" [ref=e321]
+          - generic [ref=e323]:
+            - generic [ref=e324]: Discover What’s Next
+            - link "Get In Touch" [ref=e325] [cursor=pointer]:
+              - /url: /contact
+              - generic [ref=e326]: Get In Touch
+        - generic [ref=e329]:
+          - img "Smarter" [ref=e330]
+          - generic [ref=e332]:
+            - generic [ref=e333]: Building Smarter Together
+            - link "Get In Touch" [ref=e334] [cursor=pointer]:
+              - /url: /contact
+              - generic [ref=e335]: Get In Touch
+      - generic [ref=e338]:
+        - generic [ref=e339]:
+          - heading "The Value Behind Our Partnership" [level=2] [ref=e341]
+          - paragraph [ref=e343]: At Optimo, Our partnership goes beyond delivering solutions—it’s about building trust, aligning with your goals. We go beyond consulting to become your strategic partner—delivering tailored solutions, expert insight, and measurable results.
+        - generic [ref=e344]:
+          - generic [ref=e345]:
+            - generic [ref=e348] [cursor=pointer]: Deep Collaboration
+            - generic [ref=e350] [cursor=pointer]: Expertise
+            - generic [ref=e352] [cursor=pointer]: Tailored Solutions
+          - generic [ref=e353]:
+            - paragraph [ref=e355]: We work as an extension of your team—immersing ourselves in your goals, challenges, and vision to ensure aligned outcomes. We believe great results come from working closely together.
+            - paragraph [ref=e357]: Our approach is built on trust, innovation, and measurable results—designed to help you achieve long-term success.
+            - paragraph [ref=e359]: We collaborate closely with your team to create meaningful strategies, ensuring that every solution aligns with your unique business objectives.
+    - generic [ref=e362]:
+      - heading "How We Helped Clients Grow Smarter" [level=2] [ref=e364]
+      - region "carousel" [ref=e366]:
+        - generic [ref=e367]:
+          - group "1 of 6" [ref=e368]:
+            - list [ref=e370]:
+              - listitem [ref=e371]:
+                - generic [ref=e375]:
+                  - generic [ref=e376]: Revive & Rise
+                  - generic:
+                    - generic [ref=e377]: We step in to assess what’s holding you back, reshape your strategy, and breathe.
+                    - link "Read More" [ref=e378] [cursor=pointer]:
+                      - /url: /case-studies/revive-rise
+                      - generic [ref=e379]: Read More
+          - group [ref=e383]:
+            - list [ref=e385]:
+              - listitem [ref=e386]:
+                - generic [ref=e387]:
+                  - img [ref=e389]
+                  - generic [ref=e391]:
+                    - generic [ref=e392]: Scaling Made Simple
+                    - generic [ref=e393]: We simplify the scaling process by identifying what’s working, removing what’s not, and building systems...
+                    - link [ref=e394] [cursor=pointer]:
+                      - /url: /case-studies/scaling-made-simple
+                      - generic [ref=e395]: Read More
+                      - generic [ref=e397]:
+                        - img [ref=e398]
+                        - img [ref=e399]
+          - group [ref=e401]:
+            - list [ref=e403]:
+              - listitem [ref=e404]:
+                - generic [ref=e405]:
+                  - img [ref=e407]
+                  - generic [ref=e409]:
+                    - generic [ref=e410]: Fast-Track Growth
+                    - generic [ref=e411]: When time is critical and growth is essential, our focused strategies help you accelerate progress with...
+                    - link [ref=e412] [cursor=pointer]:
+                      - /url: /case-studies/fast-track-growth
+                      - generic [ref=e413]: Read More
+                      - generic [ref=e415]:
+                        - img [ref=e416]
+                        - img [ref=e417]
+          - group [ref=e419]:
+            - list [ref=e421]:
+              - listitem [ref=e422]:
+                - generic [ref=e423]:
+                  - img [ref=e425]
+                  - generic [ref=e427]:
+                    - generic [ref=e428]: Future-Ready
+                    - generic [ref=e429]: We help organizations future-proof their operations with adaptable strategies, smart technologies.
+                    - link [ref=e430] [cursor=pointer]:
+                      - /url: /case-studies/future-ready
+                      - generic [ref=e431]: Read More
+                      - generic [ref=e433]:
+                        - img [ref=e434]
+                        - img [ref=e435]
+          - group [ref=e437]:
+            - list [ref=e439]:
+              - listitem [ref=e440]:
+                - generic [ref=e441]:
+                  - img [ref=e443]
+                  - generic [ref=e445]:
+                    - generic [ref=e446]: Real Results, Not Just Recommendations
+                    - generic [ref=e447]: We go beyond advice—our strategies are implemented with precision and deliver measurable o...
+                    - link [ref=e448] [cursor=pointer]:
+                      - /url: /case-studies/real-results-not-just-recommendations
+                      - generic [ref=e449]: Read More
+                      - generic [ref=e451]:
+                        - img [ref=e452]
+                        - img [ref=e453]
+          - group [ref=e455]:
+            - list [ref=e457]:
+              - listitem [ref=e458]:
+                - generic [ref=e459]:
+                  - img [ref=e461]
+                  - generic [ref=e463]:
+                    - generic [ref=e464]: Collaborative Partnerships That Drive Change
+                    - generic [ref=e465]: Every success story begins with deep collaboration. We work side-by-side with clients to turn complex ch...
+                    - link [ref=e466] [cursor=pointer]:
+                      - /url: /case-studies/collaborative-partnerships-that-drive-change
+                      - generic [ref=e467]: Read More
+                      - generic [ref=e469]:
+                        - img [ref=e470]
+                        - img [ref=e471]
+        - button "previous slide" [ref=e474] [cursor=pointer]
+        - button "next slide" [ref=e475] [cursor=pointer]
+    - generic [ref=e476]:
+      - heading "Proven What Our Clients Say" [level=2] [ref=e479]
+      - generic [ref=e480]:
+        - generic [ref=e481]:
+          - generic [ref=e482]:
+            - paragraph [ref=e485]: "\"Their strategic insight and hands-on approach helped us streamline operations and unlock new growth opportunities. We saw measurable results within months.\""
+            - generic [ref=e486]:
+              - img "contemplativesunriseportrait" [ref=e487]
+              - generic [ref=e488]:
+                - generic [ref=e489]: Cameron Williamson
+                - generic [ref=e490]: Stocking associate
+          - generic [ref=e491]:
+            - paragraph [ref=e494]: "\"Their consultants didn’t just offer advice—they rolled up their sleeves and worked alongside us to solve complex challenges and deliver real results."
+            - generic [ref=e495]:
+              - img "Client Image" [ref=e496]
+              - generic [ref=e497]:
+                - generic [ref=e498]: Theresa Webb
+                - generic [ref=e499]: Medical assistant
+          - generic [ref=e500]:
+            - paragraph [ref=e503]: "\"From the first meeting, they were invested in our success. Their structured process and sharp strategy helped us turn a struggling department into a high-performing unit and boost team productivity, and refocus our entire operation on what truly matters.\""
+            - generic [ref=e504]:
+              - img "Client Image" [ref=e505]
+              - generic [ref=e506]:
+                - generic [ref=e507]: Arlene Mcoy
+                - generic [ref=e508]: Janitor
+          - generic [ref=e509]:
+            - paragraph [ref=e512]: "\"They provided clarity where we had confusion, and structure where we had chaos. It’s been one of the best investments we’ve made as a company.”"
+            - generic [ref=e513]:
+              - img "Client Image" [ref=e514]
+              - generic [ref=e515]:
+                - generic [ref=e516]: Jane Cooper
+                - generic [ref=e517]: Mechanic
+          - generic [ref=e518]:
+            - paragraph [ref=e521]: “One of the things that impressed us most was their transparency and communication. We were kept in the loop at every stage of the project, with regular updates and clear reporting.”
+            - generic [ref=e522]:
+              - img "contemplativesunriseportrait" [ref=e523]
+              - generic [ref=e524]:
+                - generic [ref=e525]: Annette Black
+                - generic [ref=e526]: Construction worker
+        - generic [ref=e527]:
+          - generic [ref=e528]:
+            - paragraph [ref=e531]: "\"Their strategic insight and hands-on approach helped us streamline operations and unlock new growth opportunities. We saw measurable results within months.\""
+            - generic [ref=e532]:
+              - img "contemplativesunriseportrait" [ref=e533]
+              - generic [ref=e534]:
+                - generic [ref=e535]: Cameron Williamson
+                - generic [ref=e536]: Stocking associate
+          - generic [ref=e537]:
+            - paragraph [ref=e540]: "\"Their consultants didn’t just offer advice—they rolled up their sleeves and worked alongside us to solve complex challenges and deliver real results."
+            - generic [ref=e541]:
+              - img "Client Image" [ref=e542]
+              - generic [ref=e543]:
+                - generic [ref=e544]: Theresa Webb
+                - generic [ref=e545]: Medical assistant
+          - generic [ref=e546]:
+            - paragraph [ref=e549]: "\"From the first meeting, they were invested in our success. Their structured process and sharp strategy helped us turn a struggling department into a high-performing unit and boost team productivity, and refocus our entire operation on what truly matters.\""
+            - generic [ref=e550]:
+              - img "Client Image" [ref=e551]
+              - generic [ref=e552]:
+                - generic [ref=e553]: Arlene Mcoy
+                - generic [ref=e554]: Janitor
+          - generic [ref=e555]:
+            - paragraph [ref=e558]: "\"They provided clarity where we had confusion, and structure where we had chaos. It’s been one of the best investments we’ve made as a company.”"
+            - generic [ref=e559]:
+              - img "Client Image" [ref=e560]
+              - generic [ref=e561]:
+                - generic [ref=e562]: Jane Cooper
+                - generic [ref=e563]: Mechanic
+          - generic [ref=e564]:
+            - paragraph [ref=e567]: “One of the things that impressed us most was their transparency and communication. We were kept in the loop at every stage of the project, with regular updates and clear reporting.”
+            - generic [ref=e568]:
+              - img "contemplativesunriseportrait" [ref=e569]
+              - generic [ref=e570]:
+                - generic [ref=e571]: Annette Black
+                - generic [ref=e572]: Construction worker
+    - generic [ref=e575]:
+      - heading "Expert Solutions for Complex Challenges" [level=2] [ref=e577]
+      - generic [ref=e578]:
+        - img "Challenges Image" [ref=e580]
+        - generic [ref=e582]:
+          - generic [ref=e583]:
+            - generic [ref=e584]: Schedule a Consultation
+            - generic [ref=e585]: This is some text inside ofOur team is available during the hours below and happy to accommodate custom appointments as needed.
+          - generic [ref=e586]:
+            - generic [ref=e588]:
+              - generic [ref=e589]: Monday- Thursday
+              - generic [ref=e590]: 08:00-18:00
+            - generic [ref=e592]:
+              - generic [ref=e593]: Friday
+              - generic [ref=e594]: 09:00-17:00
+            - generic [ref=e596]:
+              - generic [ref=e597]: Saturday & Sunday
+              - generic [ref=e598]: 08:30-19:30
+          - link "Get Appointment" [ref=e600] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e601]: Get Appointment
+    - generic [ref=e606]:
+      - generic [ref=e607]:
+        - heading "Friendly Asked Questions." [level=2] [ref=e609]
+        - generic [ref=e610]:
+          - generic [ref=e611]:
+            - generic [ref=e612]: Still have a question?
+            - generic [ref=e613]: Our team is ready to assist you with anything you need.
+          - link "Make a Call" [ref=e614] [cursor=pointer]:
+            - /url: tel:+88021557854
+            - generic [ref=e615]: Make a Call
+      - tablist [ref=e620]:
+        - tab "How quickly can we see results? Most clients begin noticing measurable improvements within the first 3–6 months, depending on project scope and complexity" [ref=e621] [cursor=pointer]:
+          - generic [ref=e622]:
+            - paragraph [ref=e624]: How quickly can we see results?
+            - paragraph [ref=e628]: Most clients begin noticing measurable improvements within the first 3–6 months, depending on project scope and complexity
+        - tab "Is a credit card required for registration? Yes! After you choose your desired template, site title, and subscription plan, we will personalize your site to reflect the template you selected, including your own text and visuals." [selected] [ref=e629] [cursor=pointer]:
+          - generic [ref=e630]:
+            - paragraph [ref=e632]: Is a credit card required for registration?
+            - paragraph [ref=e637]: Yes! After you choose your desired template, site title, and subscription plan, we will personalize your site to reflect the template you selected, including your own text and visuals.
+        - tab "Do you work with startups or established businesses? Yes, we partner with both startups and established companies—adapting our strategies to fit each stage of growth" [ref=e638] [cursor=pointer]:
+          - generic [ref=e639]:
+            - paragraph [ref=e641]: Do you work with startups or established businesses?
+            - paragraph [ref=e645]: Yes, we partner with both startups and established companies—adapting our strategies to fit each stage of growth
+        - tab "What industries do you specialize in? We have extensive experience across finance, technology, healthcare, retail, and professional services industries." [ref=e646] [cursor=pointer]:
+          - generic [ref=e647]:
+            - paragraph [ref=e649]: What industries do you specialize in?
+            - paragraph [ref=e653]: We have extensive experience across finance, technology, healthcare, retail, and professional services industries.
+        - tab "How do you measure success of a consulting engagement? We track progress through KPIs, measurable business outcomes, and client satisfaction to ensure long-term value." [ref=e654] [cursor=pointer]:
+          - generic [ref=e655]:
+            - paragraph [ref=e657]: How do you measure success of a consulting engagement?
+            - paragraph [ref=e661]: We track progress through KPIs, measurable business outcomes, and client satisfaction to ensure long-term value.
+    - generic [ref=e664]:
+      - generic [ref=e665]:
+        - heading "Strategic Insights That Drive Business Success" [level=2] [ref=e667]
+        - link "View More Blogs" [ref=e669] [cursor=pointer]:
+          - /url: /blog
+          - generic [ref=e670]: View More Blogs
+      - list [ref=e675]:
+        - listitem [ref=e676]:
+          - 'link "The Growth Plan: A Playbook Toolkit for Future Success and Scalability. The Growth Plan: A Playbook Toolkit for Future Success and Scalability. We help you identify growth opportunities, refine your strategy... Read More" [ref=e677] [cursor=pointer]':
+            - /url: /blog/the-growth-plan-a-playbook-toolkit-for-future-success-and-scalability
+            - generic [ref=e678]:
+              - 'img "The Growth Plan: A Playbook Toolkit for Future Success and Scalability."'
+            - generic [ref=e679]:
+              - generic [ref=e680]:
+                - generic [ref=e681]: "The Growth Plan: A Playbook Toolkit for Future Success and Scalability."
+                - generic [ref=e682]: We help you identify growth opportunities, refine your strategy...
+              - generic [ref=e685]: Read More
+        - listitem [ref=e689]:
+          - 'link "The Strategic Edge: Insights and a Hub for Pro Consultation. The Strategic Edge: Insights and a Hub for Pro Consultation. The Growth Plan is your strategic toolkit designed to help future-proof your... Read More" [ref=e690] [cursor=pointer]':
+            - /url: /blog/the-strategic-edge-insights-and-a-hub-for-pro-consultation
+            - generic [ref=e691]:
+              - 'img "The Strategic Edge: Insights and a Hub for Pro Consultation."'
+            - generic [ref=e692]:
+              - generic [ref=e693]:
+                - generic [ref=e694]: "The Strategic Edge: Insights and a Hub for Pro Consultation."
+                - generic [ref=e695]: The Growth Plan is your strategic toolkit designed to help future-proof your...
+              - generic [ref=e698]: Read More
+        - listitem [ref=e702]:
+          - 'link "The Insight Engine: Interactive Brief Reports and Analysis. The Insight Engine: Interactive Brief Reports and Analysis. Get concise, actionable takeaways in moments—built to help you move... Read More" [ref=e703] [cursor=pointer]':
+            - /url: /blog/the-insight-engine-interactive-brief-reports-and-analysis
+            - generic [ref=e704]:
+              - 'img "The Insight Engine: Interactive Brief Reports and Analysis."'
+            - generic [ref=e705]:
+              - generic [ref=e706]:
+                - generic [ref=e707]: "The Insight Engine: Interactive Brief Reports and Analysis."
+                - generic [ref=e708]: Get concise, actionable takeaways in moments—built to help you move...
+              - generic [ref=e711]: Read More
+        - listitem [ref=e715]:
+          - link "Sharp insights for forward-thinking businesses. Sharp insights for forward-thinking businesses. Each edition breaks down complex ideas into actionable insights, helping... Read More" [ref=e716] [cursor=pointer]:
+            - /url: /blog/sharp-insights-for-forward-thinking-businesses
+            - generic [ref=e717]:
+              - img "Sharp insights for forward-thinking businesses."
+            - generic [ref=e718]:
+              - generic [ref=e719]:
+                - generic [ref=e720]: Sharp insights for forward-thinking businesses.
+                - generic [ref=e721]: Each edition breaks down complex ideas into actionable insights, helping...
+              - generic [ref=e724]: Read More
+    - generic [ref=e730]:
+      - generic [ref=e731]:
+        - generic [ref=e732]:
+          - generic [ref=e733]:
+            - generic [ref=e734]: "[CTA]"
+            - heading "Work with Experts to Grow Faster & Run Smarter" [level=2] [ref=e735]
+          - link "Get Started" [ref=e737] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e738]: Get Started
+        - generic [ref=e741]:
+          - generic [ref=e743]: Schedule a Free Consultation
+          - generic [ref=e745]: Discover Custom Solutions
+          - generic [ref=e747]: Start Building Your Competitive Advantage
+      - img "CTA Image" [ref=e749]
+    - generic [ref=e752]:
+      - generic [ref=e753]:
+        - generic [ref=e754]:
+          - generic [ref=e755]:
+            - generic [ref=e756]:
+              - generic [ref=e757]: Newsletter
+              - form "Email Form" [ref=e759]:
+                - textbox "Enter your email address" [ref=e760]
+                - button "Subscribe" [ref=e761] [cursor=pointer]
+            - generic [ref=e762]: Let’s transform your vision into results.
+          - generic [ref=e763]:
+            - generic [ref=e764]:
+              - generic [ref=e765]: Main Pages
+              - generic [ref=e766]:
+                - link "Home V1" [ref=e767] [cursor=pointer]:
+                  - /url: /
+                - link "Home V2" [ref=e768] [cursor=pointer]:
+                  - /url: /home-v2
+                - link "Case Study" [ref=e769] [cursor=pointer]:
+                  - /url: /case-studies
+                - link "About Us" [ref=e770] [cursor=pointer]:
+                  - /url: /about
+            - generic [ref=e771]:
+              - generic [ref=e772]: Company
+              - generic [ref=e773]:
+                - link "Service" [ref=e774] [cursor=pointer]:
+                  - /url: /service
+                - link "Blog" [ref=e775] [cursor=pointer]:
+                  - /url: /blog
+                - link "Pricing" [ref=e776] [cursor=pointer]:
+                  - /url: /pricing
+            - generic [ref=e777]:
+              - generic [ref=e778]: Template
+              - generic [ref=e779]:
+                - link "404 not Found" [ref=e780] [cursor=pointer]:
+                  - /url: /404
+                - link "Password Protect" [ref=e781] [cursor=pointer]:
+                  - /url: /401
+                - link "Changelog" [ref=e782] [cursor=pointer]:
+                  - /url: /changelog
+                - link "Style Guide" [ref=e783] [cursor=pointer]:
+                  - /url: /style-guide
+        - generic [ref=e784]:
+          - generic [ref=e785]:
+            - generic [ref=e786]: Email
+            - link "contactinfo@gmail.com" [ref=e787] [cursor=pointer]:
+              - /url: mailto:contactinfo@gmail.com
+          - generic [ref=e788]:
+            - generic [ref=e789]: Visit Us
+            - link "Los Angeles, CA 90017 United States" [ref=e790] [cursor=pointer]:
+              - /url: https://www.google.com/maps
+          - generic [ref=e791]:
+            - generic [ref=e792]: Call us Now
+            - link "+99 1234 5478" [ref=e793] [cursor=pointer]:
+              - /url: tel:+9912345478
+      - generic [ref=e794]:
+        - generic [ref=e795]:
+          - link "Optimo":
+            - /url: /
+            - img "Optimo"
+          - generic [ref=e796]:
+            - link "Privacy Policy" [ref=e797] [cursor=pointer]:
+              - /url: /privacy-policy
+            - link "Changelog" [ref=e799] [cursor=pointer]:
+              - /url: /changelog
+            - link "License" [ref=e801] [cursor=pointer]:
+              - /url: /license
+        - generic [ref=e802]:
+          - generic [ref=e803]:
+            - link "Twitter" [ref=e804] [cursor=pointer]:
+              - /url: https://x.com/
+            - link "LinkedIn" [ref=e805] [cursor=pointer]:
+              - /url: https://www.linkedin.com/
+            - link "Facebook" [ref=e806] [cursor=pointer]:
+              - /url: https://www.facebook.com/
+            - link "Instagram" [ref=e807] [cursor=pointer]:
+              - /url: https://www.instagram.com/
+          - generic [ref=e808]: © 2025 .All rights reserved.
+  - generic [ref=e809]:
+    - link "pentaclay.com carousel" [ref=e810] [cursor=pointer]:
+      - /url: https://pentaclay.com/
+      - generic [ref=e812]: pentaclay.com
+      - region "carousel" [ref=e813]:
+        - group "1 of 4" [ref=e815]
+    - link "Grab Now Buy For $59" [ref=e817] [cursor=pointer]:
+      - /url: https://webflow.com/templates/html/optima-studio-website-template
+      - generic [ref=e818]:
+        - generic [ref=e819]: Grab Now
+        - generic [ref=e820]: Buy For $59

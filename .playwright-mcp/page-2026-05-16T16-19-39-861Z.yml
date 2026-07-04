@@ -1,0 +1,53 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "P Pulse" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: P
+      - generic [ref=e7]: Pulse
+    - navigation [ref=e8]:
+      - link "Trending" [ref=e9] [cursor=pointer]:
+        - /url: /deals
+      - link "Family" [ref=e10] [cursor=pointer]:
+        - /url: /consumer
+      - link "Lifestyle" [ref=e11] [cursor=pointer]:
+        - /url: /automotive
+      - link "Business" [ref=e12] [cursor=pointer]:
+        - /url: /business
+      - link "Health" [ref=e13] [cursor=pointer]:
+        - /url: /health
+    - generic [ref=e14]:
+      - generic [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+        - generic [ref=e19]: Dubai
+        - img [ref=e20]
+      - button "Cart" [ref=e22] [cursor=pointer]:
+        - img [ref=e23]
+  - main [ref=e27]:
+    - generic [ref=e29]:
+      - heading "Health" [level=1] [ref=e30]
+      - paragraph [ref=e31]: Fitness, wellbeing, and mindful living. Practical reporting on movement, nutrition, rest, and the small habits that help you live each day with intention.
+      - generic [ref=e32]:
+        - article [ref=e33]:
+          - generic [ref=e34]: Fitness
+          - heading "The case for training less and recovering more" [level=3] [ref=e35]
+          - paragraph [ref=e36]: Coaches are quietly rewriting the week — and the rest days are doing the heavy lifting.
+        - article [ref=e37]:
+          - generic [ref=e38]: Nutrition
+          - heading "What a balanced plate actually looks like in 2026" [level=3] [ref=e39]
+          - paragraph [ref=e40]: Less about cutting things out, more about what you build the meal around.
+        - article [ref=e41]:
+          - generic [ref=e42]: Sleep
+          - heading "Why your wind-down routine matters more than your alarm" [level=3] [ref=e43]
+          - paragraph [ref=e44]: Three sleep researchers share the small evening habits that change everything.
+        - article [ref=e45]:
+          - generic [ref=e46]: Mental Health
+          - heading "The quiet rise of everyday mindfulness" [level=3] [ref=e47]
+          - paragraph [ref=e48]: You do not need an hour or an app — just a few honest minutes that you keep.
+        - article [ref=e49]:
+          - generic [ref=e50]: Longevity
+          - heading "The daily habits that add up over decades" [level=3] [ref=e51]
+          - paragraph [ref=e52]: Forget the miracle fixes. The data keeps pointing back to a handful of basics.
+        - article [ref=e53]:
+          - generic [ref=e54]: Wellbeing
+          - heading "Designing a calmer relationship with your phone" [level=3] [ref=e55]
+          - paragraph [ref=e56]: Small friction in the right places beats willpower every single time.

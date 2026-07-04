@@ -1,0 +1,277 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "P Pulse" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: P
+      - generic [ref=e7]: Pulse
+    - navigation [ref=e8]:
+      - link "Trending" [ref=e9] [cursor=pointer]:
+        - /url: /deals
+      - link "Family" [ref=e10] [cursor=pointer]:
+        - /url: /consumer
+      - link "Lifestyle" [ref=e11] [cursor=pointer]:
+        - /url: /automotive
+      - link "Business" [ref=e12] [cursor=pointer]:
+        - /url: /business
+      - link "Health" [ref=e13] [cursor=pointer]:
+        - /url: /health
+    - generic [ref=e14]:
+      - generic [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+        - generic [ref=e19]: Dubai
+        - img [ref=e20]
+      - button "Cart" [ref=e22] [cursor=pointer]:
+        - img [ref=e23]
+  - main [ref=e27]:
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - img [ref=e31]
+        - generic [ref=e32]:
+          - paragraph [ref=e33]: Pulse Health · Wellness Co.
+          - heading "Health and wellness accessible to all" [level=1] [ref=e34]:
+            - text: Health and
+            - emphasis [ref=e35]: wellness
+            - text: accessible to all
+          - paragraph [ref=e36]: Celebrate your health with our products — crafted with the balance of science and nature.
+          - link "Try out now" [ref=e37] [cursor=pointer]:
+            - /url: "#products"
+            - generic [ref=e38]: Try out now
+            - img [ref=e40]
+        - generic [ref=e43]:
+          - link "Vitamins" [ref=e44] [cursor=pointer]:
+            - /url: "#categories"
+            - generic [ref=e46]: Vitamins
+          - link "Collagen" [ref=e47] [cursor=pointer]:
+            - /url: "#categories"
+            - generic [ref=e49]: Collagen
+          - link "Protein" [ref=e50] [cursor=pointer]:
+            - /url: "#categories"
+            - generic [ref=e52]: Protein
+          - link "Essential Oils" [ref=e53] [cursor=pointer]:
+            - /url: "#categories"
+            - generic [ref=e55]: Essential Oils
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - generic [ref=e58]: ( Our Products )
+          - heading "Discover our Products" [level=2] [ref=e59]:
+            - text: Discover our
+            - emphasis [ref=e60]: Products
+          - paragraph [ref=e61]: We put intention into every product we make — with the balance of science and nature.
+          - link "Try out now" [ref=e62] [cursor=pointer]:
+            - /url: "#products"
+            - generic [ref=e63]: Try out now
+            - img [ref=e65]
+        - generic [ref=e68]:
+          - figure "Supplements" [ref=e69]:
+            - img "Supplements" [ref=e70]
+            - generic [ref=e71]: Supplements
+          - figure "Wellness" [ref=e72]:
+            - img "Wellness" [ref=e73]
+            - generic [ref=e74]: Wellness
+          - figure "Essential oils" [ref=e75]:
+            - img "Essential oils" [ref=e76]
+            - generic [ref=e77]: Essential oils
+      - generic [ref=e79]:
+        - article [ref=e80]:
+          - generic [ref=e81]:
+            - heading "Supplements" [level=3] [ref=e82]
+            - paragraph [ref=e83]: We use our knowledge and expertise to help you live your best life. This means creating natural health & wellness products that help people make their life better.
+            - link "Explore Category" [ref=e84] [cursor=pointer]:
+              - /url: "#products"
+              - generic [ref=e85]: Explore Category
+              - img [ref=e87]
+          - img "Supplements" [ref=e91]
+        - article [ref=e92]:
+          - generic [ref=e93]:
+            - heading "Essential Oils" [level=3] [ref=e94]
+            - paragraph [ref=e95]: Pure, carefully sourced oils to bring calm and balance into your everyday rituals.
+            - link "Explore Category" [ref=e96] [cursor=pointer]:
+              - /url: "#products"
+              - generic [ref=e97]: Explore Category
+              - img [ref=e99]
+          - img "Essential Oils" [ref=e103]
+        - article [ref=e104]:
+          - generic [ref=e105]:
+            - heading "Powders" [level=3] [ref=e106]
+            - paragraph [ref=e107]: Clean, functional powders that fold effortlessly into your daily routine.
+            - link "Explore Category" [ref=e108] [cursor=pointer]:
+              - /url: "#products"
+              - generic [ref=e109]: Explore Category
+              - img [ref=e111]
+          - img "Powders" [ref=e115]
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - heading "Latest Products" [level=2] [ref=e118]:
+            - text: Latest
+            - emphasis [ref=e119]: Products
+          - link "Show more" [ref=e120] [cursor=pointer]:
+            - /url: "#categories"
+            - generic [ref=e121]: Show more
+            - img [ref=e123]
+        - generic [ref=e126]:
+          - article [ref=e127]:
+            - generic [ref=e128]:
+              - generic [ref=e129]: On Sale
+              - img "Collagen Peptides" [ref=e130]
+            - generic [ref=e131]:
+              - heading "Collagen Peptides" [level=3] [ref=e132]
+              - generic [ref=e133]: $52.00
+            - link "Add to Cart" [ref=e134] [cursor=pointer]:
+              - /url: "#products"
+              - text: Add to Cart
+              - img [ref=e135]
+          - article [ref=e138]:
+            - generic [ref=e139]:
+              - generic [ref=e140]: On Sale
+              - img "Peppermint Softgels" [ref=e141]
+            - generic [ref=e142]:
+              - heading "Peppermint Softgels" [level=3] [ref=e143]
+              - generic [ref=e144]: $16.00$20.00
+            - link "Add to Cart" [ref=e145] [cursor=pointer]:
+              - /url: "#products"
+              - text: Add to Cart
+              - img [ref=e146]
+          - article [ref=e149]:
+            - generic [ref=e150]:
+              - generic [ref=e151]: On Sale
+              - img "Spearmint Oil" [ref=e152]
+            - generic [ref=e153]:
+              - heading "Spearmint Oil" [level=3] [ref=e154]
+              - generic [ref=e155]: $20.00
+            - link "Add to Cart" [ref=e156] [cursor=pointer]:
+              - /url: "#products"
+              - text: Add to Cart
+              - img [ref=e157]
+          - article [ref=e160]:
+            - generic [ref=e161]:
+              - generic [ref=e162]: On Sale
+              - img "Rice Protein" [ref=e163]
+            - generic [ref=e164]:
+              - heading "Rice Protein" [level=3] [ref=e165]
+              - generic [ref=e166]: $112.00
+            - link "Add to Cart" [ref=e167] [cursor=pointer]:
+              - /url: "#products"
+              - text: Add to Cart
+              - img [ref=e168]
+      - generic [ref=e171]:
+        - generic [ref=e172]:
+          - generic [ref=e173]: ( Why Pulse Health )
+          - heading "Our Advantages" [level=2] [ref=e174]:
+            - text: Our
+            - emphasis [ref=e175]: Advantages
+          - paragraph [ref=e176]: We use our knowledge and expertise to help you live your best life — natural products that help people make their life better.
+        - generic [ref=e177]:
+          - article [ref=e178]:
+            - heading "Healthy nails & hair" [level=3] [ref=e180]
+            - paragraph [ref=e181]: We create balance daily in people’s lives with our products.
+          - article [ref=e182]:
+            - heading "Pain relief" [level=3] [ref=e184]
+            - paragraph [ref=e185]: We create balance daily in people’s lives with our products.
+          - article [ref=e186]:
+            - heading "Better sleep" [level=3] [ref=e188]
+            - paragraph [ref=e189]: We create balance daily in people’s lives with our products.
+          - article [ref=e190]:
+            - heading "Detox & Cleanse" [level=3] [ref=e192]
+            - paragraph [ref=e193]: We create balance daily in people’s lives with our products.
+          - article [ref=e194]:
+            - heading "Muscle support" [level=3] [ref=e196]
+            - paragraph [ref=e197]: We create balance daily in people’s lives with our products.
+          - article [ref=e198]:
+            - heading "Immune support" [level=3] [ref=e200]
+            - paragraph [ref=e201]: We create balance daily in people’s lives with our products.
+      - generic [ref=e203]:
+        - generic [ref=e204]:
+          - generic [ref=e205]:
+            - img [ref=e206]
+            - img [ref=e208]
+            - img [ref=e210]
+            - img [ref=e212]
+            - img [ref=e214]
+          - generic [ref=e216]: Mary H.
+          - blockquote [ref=e217]: I love their products and will be ordering again! I noticed an increase in energy and clarity on the very first day.
+          - generic [ref=e218]:
+            - button "Previous testimonial" [ref=e219] [cursor=pointer]:
+              - img [ref=e220]
+            - button "Next testimonial" [ref=e222] [cursor=pointer]:
+              - img [ref=e223]
+            - generic [ref=e225]: 01 / 03
+        - img "Happy Pulse Health customer" [ref=e227]
+      - generic [ref=e229]:
+        - generic [ref=e230]:
+          - heading "Join our family!" [level=2] [ref=e231]:
+            - text: Join our
+            - emphasis [ref=e232]: family!
+          - paragraph [ref=e233]: Be the first to know about our latest products and offers. As a welcome gift, we’ll send you a 30% off coupon.
+          - generic [ref=e234]:
+            - textbox "Email address" [ref=e235]:
+              - /placeholder: Your email address
+            - button "Subscribe →" [ref=e236] [cursor=pointer]
+        - img [ref=e238]
+      - generic [ref=e240]:
+        - generic [ref=e241]:
+          - generic [ref=e242]:
+            - text: Pulse Health
+            - paragraph [ref=e243]: Everything you need for better health.
+            - list [ref=e244]:
+              - listitem [ref=e245]:
+                - generic [ref=e246]: Visit
+                - text: Business Bay, Dubai, UAE
+              - listitem [ref=e247]:
+                - generic [ref=e248]: Call
+                - link "+971 4 123 4567" [ref=e249] [cursor=pointer]:
+                  - /url: tel:+97141234567
+          - generic [ref=e250]:
+            - generic [ref=e251]:
+              - heading "Shop" [level=4] [ref=e252]
+              - list [ref=e253]:
+                - listitem [ref=e254]:
+                  - link "Shop All" [ref=e255] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e256]:
+                  - link "Supplements" [ref=e257] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e258]:
+                  - link "Essential Oils" [ref=e259] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e260]:
+                  - link "Powders" [ref=e261] [cursor=pointer]:
+                    - /url: "#"
+            - generic [ref=e262]:
+              - heading "About" [level=4] [ref=e263]
+              - list [ref=e264]:
+                - listitem [ref=e265]:
+                  - link "About Us" [ref=e266] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e267]:
+                  - link "Our Team" [ref=e268] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e269]:
+                  - link "Blog" [ref=e270] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e271]:
+                  - link "Testimonials" [ref=e272] [cursor=pointer]:
+                    - /url: "#"
+            - generic [ref=e273]:
+              - heading "Customer Care" [level=4] [ref=e274]
+              - list [ref=e275]:
+                - listitem [ref=e276]:
+                  - link "Contact Us" [ref=e277] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e278]:
+                  - link "FAQs" [ref=e279] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e280]:
+                  - link "Returns & Exchanges" [ref=e281] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e282]:
+                  - link "Support" [ref=e283] [cursor=pointer]:
+                    - /url: "#"
+        - generic [ref=e284]:
+          - generic [ref=e285]: © 2026 Pulse Health. All rights reserved.
+          - generic [ref=e286]:
+            - link "Twitter" [ref=e287] [cursor=pointer]:
+              - /url: "#"
+            - link "Instagram" [ref=e288] [cursor=pointer]:
+              - /url: "#"
+            - link "Facebook" [ref=e289] [cursor=pointer]:
+              - /url: "#"
